@@ -1,4 +1,4 @@
-![Holm School](https://github.com/HolmSchool/HolmSchool/blob/master/images/banner.png)
+![Holm School](https://github.com/HolmSchool/HolmSchool/blob/master/images/small_banner.png)
 
 <h2 align="center">Keep Free Computer Science Education Weird</h2>
 
