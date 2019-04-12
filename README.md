@@ -51,15 +51,17 @@ Raspberry Pi/Debian | [William Shotts - The Linux Command Line](http://linuxcomm
 
 #### Open Educational Resources
 
-Holm School uses OER primarily, because there are many free computer science textbooks thanks to the generosity of many writers the past few decades. Just like I praise the benefits of using a $15 old edition of Liang, there is much to be reaped from even old CS books. OER usually is more in depth than MOOC videos, because videos are usually just the equivalent of Cliffs Notes while books really delve deep into the subject and are much more thorough. Most people know about MOOCs, and there are other compendiums of CS MOOC classes ([ossu](https://github.com/ossu/computer-science)), but our focus on Holm School is curating the best OER resources for a college-level equivalent in computer science.
+Holm School uses OER primarily, because there are many free computer science textbooks thanks to the generosity of many writers the past few decades. Just like I praise the benefits of using a $15 old edition of Liang, there is much to be reaped from even old CS books. OER usually is more in depth than MOOC videos, because videos are usually just the equivalent of Cliffs Notes while books really delve deep into the subject and are much more thorough. Most people know about MOOCs, and there are other compendiums of CS MOOC classes ([ossu](https://github.com/ossu/computer-science)) as well as paid books ([teachyourselfcs.com](https://teachyourselfcs.com/)), but our focus at Holm School is curating the best OER resources for a self-taught college-level equivalent in computer science. Acquainting yourself with OER ensures that you're able to find new OER resources instead of having to purchase something when the time comes for you to teach yourself something new. Sink the money you save not buying textbooks into VTSAX!
 
 Topic | Book
 ------|--------
 OER | [Holm School - Computer Science OER in 2018](https://holm.school/computer-science-oer-in-2018/)
 OER | [Holm School - Important Knowledge is in Books](https://holm.school/important-knowledge-is-in-books/)
-OER | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+OER | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 OER | [OpenStax.org](http://openstax.org)
 OER (optional) | [Open: The Philosophy and Practices that are Revolutionizing Education and Science](https://www.ubiquitypress.com/site/books/10.5334/bbc/)
+
+
 
 
 
