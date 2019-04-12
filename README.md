@@ -31,17 +31,17 @@ Now let's set your Raspberry Pi up for development. Install Java 8 for Liang, an
 
 Topic    | Book
 ---------|----------
-Raspberry Pi | [Install Java on a Raspberry Pi](https://gist.github.com/ribasco/fff7d30b31807eb02b32bcf35164f11f)
-Raspberry Pi | Install Python: ```sudo apt-get install python3-pip```
-Raspberry Pi | Install Chromium: ```sudo apt-get install chromium```
-Raspberry Pi | Install VS Code: ```sudo apt update``` ```sudo apt-get install snapd``` ```sudo reboot``` (save first) ```sudo snap install code --classic``` 
-Raspberry Pi | [Linux Basics: The Command Line Interface (edX)](https://www.edx.org/course/linux-basics-the-command-line-interface)
-Raspberry Pi | [Introduction to Linux (edX)](https://www.edx.org/course/introduction-to-linux)
-Raspberry Pi | [Introduction to the Command Line](https://launchschool.com/books/command_line)
-Raspberry Pi | [Malcolm Maclean - Just Enough Linux](https://leanpub.com/jelinux/read)
-Raspberry Pi | [Mark Bates - Conquering the Command Line](http://conqueringthecommandline.com/book)
-Raspberry Pi | [Unix and Linux Visual Quickstart Guide - Deborah Ray, Eric Ray (Sample Excerpt)](http://ptgmedia.pearsoncmg.com/images/9780321997548/samplepages/9780321997548.pdf)
-Raspberry Pi | [William Shotts - The Linux Command Line](http://linuxcommand.org/tlcl.php)
+Raspberry Pi/Debian | [Install Java on a Raspberry Pi](https://gist.github.com/ribasco/fff7d30b31807eb02b32bcf35164f11f)
+Raspberry Pi/Debian | Install Python: ```sudo apt-get install python3-pip```
+Raspberry Pi/Debian | Install Chromium: ```sudo apt-get install chromium```
+Raspberry Pi/Debian | Install VS Code: ```sudo apt update``` ```sudo apt-get install snapd``` ```sudo reboot``` (save first) ```sudo snap install code --classic``` 
+Raspberry Pi/Debian | [Linux Basics: The Command Line Interface (edX)](https://www.edx.org/course/linux-basics-the-command-line-interface)
+Raspberry Pi/Debian | [Introduction to Linux (edX)](https://www.edx.org/course/introduction-to-linux)
+Raspberry Pi/Debian | [Introduction to the Command Line](https://launchschool.com/books/command_line)
+Raspberry Pi/Debian | [Malcolm Maclean - Just Enough Linux](https://leanpub.com/jelinux/read)
+Raspberry Pi/Debian | [Mark Bates - Conquering the Command Line](http://conqueringthecommandline.com/book)
+Raspberry Pi/Debian | [Unix and Linux Visual Quickstart Guide - Deborah Ray, Eric Ray (Sample Excerpt)](http://ptgmedia.pearsoncmg.com/images/9780321997548/samplepages/9780321997548.pdf)
+Raspberry Pi/Debian | [William Shotts - The Linux Command Line](http://linuxcommand.org/tlcl.php)
 
 
 
