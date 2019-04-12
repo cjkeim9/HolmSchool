@@ -67,10 +67,10 @@ Have you read all 1344 pages of Liang 9th Edition, and done all the exercise pro
 
 Topic | Book
 ------|-------
-Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) | [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  | [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) | [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
-Java Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) | [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
+Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) / [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  / [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) / [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
+Java Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) / [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
 Java Data Structurees | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
-Java Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) |[coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
+Java Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) /[coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
 
 #### CS50 as an introduction to C, Python, and Javascript
 
@@ -80,9 +80,20 @@ Beginning Programming | [cs50](https://www.edx.org/course/cs50s-introduction-to-
 C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 C | [Jens Gustedt - Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 Python | [How to Think Like a Computer Scientist - Allen B. Downey](http://interactivepython.org/courselib/static/thinkcspy/index.html)
-Python | [John DeNero - Composing Programs](http://composingprograms.com/) | [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
+Python | [John DeNero - Composing Programs](http://composingprograms.com/) / [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
 JavaScript | [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.net/)
 JavaScript | [Cody Lindley - JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
 JavaScript | [Nicholas C. Zakas - Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
 
+#### Data Structures in C, Python, and JavaScript
+After studying data structures and algorithms in Java, learning them in additional languages should come quickly. We throw in some complexity books (Foundations..., Think...) to further expand our CS horizons:
+
+Topic | Book 
+------|--------
+C | [Al Aho, Jeff Ullman - Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
+Python | [Allen B. Downey - Think Complexity](http://greenteapress.com/complexity/)
+Python | [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
+JavaScript | [Data Structures in JavaScript](https://pmary.gitbooks.io/data-structure-in-javascript/content/)
+
+#### Discrete Mathematics
