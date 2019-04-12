@@ -63,13 +63,13 @@ OER (optional) | [Open: The Philosophy and Practices that are Revolutionizing Ed
 
 #### Java Programming
 
-Have you read all 1344 pages of Liang 9th Edition, and done all the exercise problems for every chapter? If not, get started, it'll certainly take a lot of time! When you're comfortable with Java, let's read a couple more java data structures and algorithms to make sure we're comfortable with beginning computer science and then we can start studying languages other than java!
+Have you read all 1344 pages of Liang 9th Edition, and done all the exercise problems for every chapter? If not, get started, it'll certainly take a lot of time! When you're comfortable with Java, let's read a couple more java data structures and algorithms books to make sure we're comfortable with beginning computer science and then we can start studying languages other than java!
 
 Topic | Book
 ------|-------
 Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) / [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  / [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) / [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
 Java Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) / [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
-Java Data Structurees | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
+Java Data Structures | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
 Java Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) /[coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
 
 #### CS50 as an introduction to C, Python, and Javascript
@@ -77,6 +77,7 @@ Java Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) /[coursera pa
 Topic | Book
 ------|--------
 Beginning Programming | [cs50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+C | [Chris Bourke - Computer Science I](http://cse.unl.edu/~cbourke/ComputerScienceOne.pdf)
 C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 C | [Jens Gustedt - Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 Python | [How to Think Like a Computer Scientist - Allen B. Downey](http://interactivepython.org/courselib/static/thinkcspy/index.html)
