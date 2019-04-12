@@ -1,7 +1,7 @@
 ![Holm School](https://github.com/HolmSchool/HolmSchool/blob/master/images/banner.png)
-<h3 align="center">Holm School</h3>
+<h3 align="center">Keep Free Computer Science Education Weird</h3>
 
-Keep Free Computer Science Education Weird
+
 
 Holm Schoolers are computer scientists that are home schooled, or even better, _unschooled_. Holm Schoolers put their faith in open source and know that the open source community has developed free and copyleft educational resources for learning computer science (as well as other disciplines) to the point that paying for anything other than community or local public college is a tremendous risk of one's money. Because open source has been around for so long, there is enough of an archive of cultural works that a computer scientist could receive their training completely using free and open educational resources (OER) on the internet. This doesn't even factor in the utility of the public library in your town -- your public library has many programming books as well as free video tutorial sites like Lynda.com, which hosts many programming lessons in almost every programming language. They also have computers and laptops if you don't have one. Unschooling is learning college-level material on your own for as low of cost as possible, either by necessity or by choice.
 
