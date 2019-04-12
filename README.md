@@ -47,7 +47,7 @@ Raspberry Pi/Debian | [Introduction to the Command Line](https://launchschool.co
 Raspberry Pi/Debian | [Malcolm Maclean - Just Enough Linux](https://leanpub.com/jelinux/read)
 Raspberry Pi/Debian | [Mark Bates - Conquering the Command Line](http://conqueringthecommandline.com/book)
 Raspberry Pi/Debian | [Unix and Linux Visual Quickstart Guide - Deborah Ray, Eric Ray (Sample Excerpt)](http://ptgmedia.pearsoncmg.com/images/9780321997548/samplepages/9780321997548.pdf)
-Raspberry Pi/Debian | [William Shotts - The Linux Command Line](http://linuxcommand.org/tlcl.php)
+Raspberry Pi/Debian (optional) | [William Shotts - The Linux Command Line](http://linuxcommand.org/tlcl.php)
 
 #### Open Educational Resources
 
@@ -61,7 +61,16 @@ OER | [EbookFoundation/free-programming-books](https://github.com/EbookFoundatio
 OER | [OpenStax.org](http://openstax.org)
 OER (optional) | [Open: The Philosophy and Practices that are Revolutionizing Education and Science](https://www.ubiquitypress.com/site/books/10.5334/bbc/)
 
+#### Java Programming
 
+Have you read all 1344 pages of Liang 9th Edition, and done all the exercise problems for every chapter? If not, get started, it'll certainly take a lot of time! When you're comfortable with Java, let's read a couple more java data structures and algorithms and then we can start studying languages other than java.
+
+Topic | Book
+------|-------
+Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0) [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
+Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
+Data Structurees | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) [website](http://opendatastructures.org)
+Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) [coursera part 1](https://www.coursera.org/learn/algorithms-part1) [part 2](https://www.coursera.org/learn/algorithms-part2)
 
 
 
