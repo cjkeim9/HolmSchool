@@ -95,5 +95,6 @@ C | [Al Aho, Jeff Ullman - Foundations of Computer Science](http://infolab.stanf
 Python | [Allen B. Downey - Think Complexity](http://greenteapress.com/complexity/)
 Python | [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 JavaScript | [Data Structures in JavaScript](https://pmary.gitbooks.io/data-structure-in-javascript/content/)
+JavaScript | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 #### Discrete Mathematics
