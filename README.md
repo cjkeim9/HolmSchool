@@ -79,7 +79,7 @@ Topic | Book
 Beginning Programming | [cs50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 C | [Jens Gustedt - Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
-Python | [How to Think Like a Computer Scientist - Allen B. Downey](http://interactivepython.org/courselib/static/thinkcspy/index.html)
+Python | [Allen B. Downey - How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 Python | [John DeNero - Composing Programs](http://composingprograms.com/) / [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
 JavaScript | [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.net/)
