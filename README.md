@@ -77,7 +77,6 @@ Java Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) /[coursera pa
 Topic | Book
 ------|--------
 Beginning Programming | [cs50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
-C | [Chris Bourke - Computer Science I](http://cse.unl.edu/~cbourke/ComputerScienceOne.pdf)
 C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 C | [Jens Gustedt - Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 Python | [How to Think Like a Computer Scientist - Allen B. Downey](http://interactivepython.org/courselib/static/thinkcspy/index.html)
