@@ -20,14 +20,17 @@ Topic    | Book
 CS and poverty | [Ryan Holm - How to Be a Not-Rich Computer Scientist](https://holm.school/about/)
 Java | [Daniel Liang - Introduction to Java Programming, Comprehensive Version (9th Edition, $15)](https://www.amazon.com/gp/offer-listing/0132936526/ref=dp_olp_used?ie=UTF8&condition=used)
 
+
 Now let's set your Raspberry Pi up for development. Install Java 8 for Liang, and Visual Studio Code for an IDE. Install chromium for a browser, and python 3 while we're at it.
+
+#### Set Up Your Raspberry Pi
 
 Topic    | Book
 ---------|----------
 Raspberry Pi | [Install Java on a Raspberry Pi](https://gist.github.com/ribasco/fff7d30b31807eb02b32bcf35164f11f)
 Raspberry Pi | Install Python: ```sudo apt-get install python3-pip```
 Raspberry Pi | Install Chromium: ```sudo apt-get install chromium```
-Raspberry Pi | Install VS Code: ```sudo apt update``` / ```sudo apt-get install snapd```/ ```sudo reboot``` (this will reboot your system, so save) / ```sudo snap install code --classic``` 
+Raspberry Pi | Install VS Code: ```sudo apt update``` ```sudo apt-get install snapd``` ```sudo reboot``` (this will reboot your system, so save) ```sudo snap install code --classic``` 
 Raspberry Pi | [Linux Basics: The Command Line Interface (edX)](https://www.edx.org/course/linux-basics-the-command-line-interface)
 Raspberry Pi | [Introduction to Linux (edX)](https://www.edx.org/course/introduction-to-linux)
 Raspberry Pi | [Introduction to the Command Line](https://launchschool.com/books/command_line)
