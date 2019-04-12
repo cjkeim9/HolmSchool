@@ -98,3 +98,21 @@ JavaScript | [Data Structures in JavaScript](https://pmary.gitbooks.io/data-stru
 JavaScript | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 #### Discrete Mathematics
+
+Discrete Math is a fun subject, so I'm going to load a lot on you, and through repetition make you a discrete math master!
+
+Topic | Book
+------|-------
+Proofs | [Book of Proof - Richard Hammack](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+Proofs | [Introduction to Proofs - Jim Hefferon](http://joshua.smcvt.edu/proofs/)
+Discrete Mathematics | [Discrete Mathematics (coursera)](https://www.coursera.org/learn/discrete-mathematics)
+Discrete Mathematics | [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
+Discrete Mathematics | [CS202: Discrete Structures](https://learn.saylor.org/course/view.php?id=67)
+Discrete Mathematics | [Michiel Smid - Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/)
+Discrete Mathematics | [Harris Kwong - A Spiral Workbook for Discrete Mathematics](http://textbooks.opensuny.org/a-spiral-workbook-for-discrete-mathematics/)
+Discrete Mathematics | [Computer Science 70, 001 - Spring 2015](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
+Discrete Mathematics | [Discrete Mathematics - Arsdigita}(https://www.youtube.com/playlist?list=PL6pCe7tRct-hEgOxlFzXxQRba_I4zIP4j)
+Discrete Mathematics | [Discrete Math - trevtutor - part 1](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) & [part 2](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
+Graph Theory | [Graph Theory - Sarada Herke](https://www.youtube.com/watch?v=eIb1cz06UwI&list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
+Discrete Mathematics | [Mathematics for Computer Science - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) & [textbook](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+
