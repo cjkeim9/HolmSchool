@@ -1,6 +1,6 @@
 ![Holm School](https://github.com/HolmSchool/HolmSchool/blob/master/images/banner.png)
-<p align="center"><h3>Holm School</h3></p>
-
+<h3 align="center">Holm School</h3>
+<hr/>
 <p align="center">
   Keep Free Computer Science Education Weird
 </p>
