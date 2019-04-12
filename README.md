@@ -51,7 +51,7 @@ Raspberry Pi/Debian (optional) | [William Shotts - The Linux Command Line](http:
 
 #### Open Educational Resources
 
-Holm School uses OER primarily, because there are many free computer science textbooks thanks to the generosity of many writers the past few decades. Just like I praise the benefits of using a $15 old edition of Liang, there is much to be reaped from even old CS books. OER usually is more in depth than MOOC videos, because videos are usually just the equivalent of Cliffs Notes while books really delve deep into the subject and are much more thorough. Most people know about MOOCs, and there are other compendiums of CS MOOC classes ([ossu](https://github.com/ossu/computer-science)) as well as paid books ([teachyourselfcs.com](https://teachyourselfcs.com/)), but our focus at Holm School is curating the best OER resources for a self-taught college-level equivalent in computer science. Acquainting yourself with OER ensures that you're able to find new OER resources instead of having to purchase something when the time comes for you to teach yourself something new. Sink the money you save not buying textbooks into VTSAX!
+Holm School uses OER primarily, because there are many free computer science textbooks thanks to the generosity of many writers the past few decades. Just like I praise the benefits of using a $15 old edition of Liang, there is much to be reaped from even old CS books. OER usually is more in depth than MOOC videos, because videos are usually just the equivalent of Cliffs Notes while books really delve deep into the subject and are much more thorough. Most people know about MOOCs, and there are other compendiums of CS MOOC classes ([ossu](https://github.com/ossu/computer-science)) as well as paid books ([teachyourselfcs.com](https://teachyourselfcs.com/)), but our focus at Holm School is curating the best OER resources for a self-taught college-level equivalent in computer science. I believe that reading CS books is essential training (and an essential habit) for computer scientists. Acquainting yourself with OER ensures that you're able to find new OER resources instead of having to purchase something when the time comes for you to teach yourself something new. Sink the money you save not buying textbooks into VTSAX!
 
 Topic | Book
 ------|--------
@@ -63,14 +63,26 @@ OER (optional) | [Open: The Philosophy and Practices that are Revolutionizing Ed
 
 #### Java Programming
 
-Have you read all 1344 pages of Liang 9th Edition, and done all the exercise problems for every chapter? If not, get started, it'll certainly take a lot of time! When you're comfortable with Java, let's read a couple more java data structures and algorithms and then we can start studying languages other than java.
+Have you read all 1344 pages of Liang 9th Edition, and done all the exercise problems for every chapter? If not, get started, it'll certainly take a lot of time! When you're comfortable with Java, let's read a couple more java data structures and algorithms to make sure we're comfortable with beginning computer science and then we can start studying languages other than java!
 
 Topic | Book
 ------|-------
-Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0) [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
-Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
-Data Structurees | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) [website](http://opendatastructures.org)
-Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) [coursera part 1](https://www.coursera.org/learn/algorithms-part1) [part 2](https://www.coursera.org/learn/algorithms-part2)
+Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) | [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  | [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) | [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
+Java Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) | [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
+Java Data Structurees | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
+Java Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) |[coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
 
+#### CS50 as an introduction to C, Python, and Javascript
 
+Topic | Book
+------|--------
+Beginning Programming | [cs50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
+C | [Jens Gustedt - Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
+Python | [How to Think Like a Computer Scientist - Allen B. Downey](http://interactivepython.org/courselib/static/thinkcspy/index.html)
+Python | John DeNero - [Composing Programs](http://composingprograms.com/) | [SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
+JavaScript | [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.net/)
+JavaScript | [Cody Lindley - JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
+JavaScript | [Nicholas C. Zakas - Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
 
