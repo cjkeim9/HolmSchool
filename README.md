@@ -18,6 +18,7 @@ Topic | Book
 ------------ | -------------
 Financial Independence | [Mr. Money Mustache](http://www.mrmoneymustache.com/all-the-posts-since-the-beginning-of-time/)
 Financial Independence | [J.L. Collins - The Simple Path to Wealth](https://jlcollinsnh.com/stock-series/)
+Personal Finance | [Holm School - Tips for Personal Finance](https://holm.school/tips-for-personal-finance/)
 
 #### Next Set of Books to Read
 
@@ -27,7 +28,7 @@ The second investment this curriculum requires is a copy of the ninth edition of
 
 Topic    | Book
 ---------|----------
-CS and poverty | [Ryan Holm - How to Be a Not-Rich Computer Scientist](https://holm.school/about/)
+CS and poverty | [Holm School - How to Be a Not-Rich Computer Scientist](https://holm.school/about/)
 Java | [Daniel Liang - Introduction to Java Programming, Comprehensive Version (9th Edition, $15)](https://www.amazon.com/gp/offer-listing/0132936526/ref=dp_olp_used?ie=UTF8&condition=used)
 
 #### Set Up Your Raspberry Pi
@@ -48,6 +49,17 @@ Raspberry Pi/Debian | [Mark Bates - Conquering the Command Line](http://conqueri
 Raspberry Pi/Debian | [Unix and Linux Visual Quickstart Guide - Deborah Ray, Eric Ray (Sample Excerpt)](http://ptgmedia.pearsoncmg.com/images/9780321997548/samplepages/9780321997548.pdf)
 Raspberry Pi/Debian | [William Shotts - The Linux Command Line](http://linuxcommand.org/tlcl.php)
 
+#### Open Educational Resources
+
+Holm School uses OER primarily, because there are many free computer science textbooks thanks to the generosity of many writers the past few decades. Just like I praise the benefits of using a $15 old edition of Liang, there is much to be reaped from even old CS books. OER usually is more in depth than MOOC videos, because videos are usually just the equivalent of Cliffs Notes while books really delve deep into the subject and are much more thorough. Most people know about MOOCs, and there are other compendiums of CS MOOC classes ([ossu](https://github.com/ossu/computer-science)), but our focus on Holm School is curating the best OER resources for a college-level equivalent in computer science.
+
+Topic | Book
+------|--------
+OER | [Holm School - Computer Science OER in 2018](https://holm.school/computer-science-oer-in-2018/)
+OER | [Holm School - Important Knowledge is in Books](https://holm.school/important-knowledge-is-in-books/)
+OER | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+OER | [OpenStax.org](http://openstax.org)
+OER (optional) | [Open: The Philosophy and Practices that are Revolutionizing Education and Science](https://www.ubiquitypress.com/site/books/10.5334/bbc/)
 
 
 
