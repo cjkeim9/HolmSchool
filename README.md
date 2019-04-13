@@ -442,6 +442,7 @@ Haskell | [Introduction to Functional Programming - Delft University of Technolo
 Haskell | [Functional Programming in Haskell - IIT Madras](https://nptel.ac.in/courses/106106137/)
 OCaml (optional) | [Allen Downey and Nicholas Monje - How to Think Like a (Functional) Programmer](http://greenteapress.com/thinkocaml/)
 OCaml (optional) | [CS3110  - Cornell](https://www.cs.cornell.edu/courses/cs3110/2018sp/) & [textbook](http://www.cs.cornell.edu/courses/cs3110/2018fa/textbook/)
+OCaml (optional) | [Real World OCaml](https://dev.realworldocaml.org/toc.html)
 OCaml (optional) | [Functional Data Structures](https://cs.uwaterloo.ca/~plragde/flaneries/FDS/)
 
 
