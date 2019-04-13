@@ -26,7 +26,7 @@ Personal Finance | [Holm School - Tips for Personal Finance](https://holm.school
 
 Computer science isn't a topic that requires a university education. Classroom discussions rarely happen, and whereas a professor could answer your questions, stack overflow seems to do the same. Simply put, all you need in modern times is a laptop (even a $50 raspberry pi will suffice) and an internet connection. If you don't have that, you can always go to the public library and use their computers on a cloud IDE. If you are impoverished, computer science is perhaps the most fruitful path for self-study towards a career because of the low cost of educational resources (OER is free) and the sheer ubiquity of inexpensive technology. Knowing how to program is a great way to escape poverty as well. More and more business need programmers outside of the expensive hubs of LA, SF, and NY, including the midwest or even rural locations. Many people have cell phones which could serve as an internet connection or PDF reader to fuel computer science self-study. Installing debian on a ten year old, $100 laptop usually is a good-enough environment for learning how to program. The Holm School curriculum isn't completely free. It requires you to purchase a raspberry pi if you don't have a linux desktop or install debian on an old laptop if you want. You can wave past this requirement if you do all of your work at the public library using their equipment. It also requires frequent trips to the public library to use their study space/internet, check out their programming books from the CS stack (Dewey Decimal 0-100!), as well as to fuel any all all off-topic study/entertainment. This at a minimum requires a bicycle or perhaps public transportation. But remember, we're replacing the university with the public library!
 
-The second investment this curriculum requires is a copy of the ninth edition of Daniel Liang's Introduction to Java Programming, Comprehensive Version. This book sells for [$15 used on Amazon](https://www.amazon.com/Introduction-Java-Programming-Comprehensive-Version/dp/0132936526), and well worth the investment. This is the only book I recommend you purchase, because you can teach yourself two semesters worth of programming classes by reading the entirity of this book alone. But, here's the rub, you can't just read the book. You have to program, from scratch, every single challenge question at the end of each chapter. __Every single one, every single chapter, for the entirity of this book__ This is non-negotiable, because this is the only way you'll memorize programming syntax well enough to be able to write programs on your own without reference to any external material. You don't need the latest edition of this book to gain from it -- the $15 edition is enough to learn how to program for a beginner -- instead you just need to read it all and do every single programming challenge at the end of each chapter.
+The second investment this curriculum requires is a copy of the ninth edition of Daniel Liang's Introduction to Java Programming, Comprehensive Version. This book sells for [$15 used on Amazon](https://www.amazon.com/Introduction-Java-Programming-Comprehensive-Version/dp/0132936526), and well worth the investment. This is the only book I recommend you purchase, because you can teach yourself two semesters worth of programming classes by reading the entirity of this book alone. But, here's the rub, you can't just read the book. You have to program, from scratch, every single challenge question at the end of each chapter. __Every single one, every single chapter, for the entirety of this book__ This is non-negotiable, because this is the only way you'll memorize programming syntax well enough to be able to write programs on your own without reference to any external material. You don't need the latest edition of this book to gain from it -- the $15 edition is enough to learn how to program for a beginner -- instead you just need to read it all and do every single programming challenge at the end of each chapter.
 
 Topic    | Book
 ---------|----------
@@ -99,14 +99,24 @@ OER (optional) | [Open: The Philosophy and Practices that are Revolutionizing Ed
 
 Topic | Book
 ------|--------
+Beginning CS | [Crash Course - Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q)
 Beginning Programming | [cs50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+C | [Beej's Guide to C Programming](http://beej.us/guide/bgc/html/single/bgc.html)
 C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 C | [Jens Gustedt - Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
+C | [C Programming: Modular Programming and Memory Management - Dartmouth](https://www.edx.org/course/modular-programming-and-memory-management)
+C | [C Programming Exercises, Practice, Solution](https://www.w3resource.com/c-programming-exercises/)
+Python | [Python for Everybody - Charles R. Severance](https://py4e.com/book.php) & [mooc](https://www.coursera.org/specializations/python)
+Python | [Automate the Boring Stuff - Al Sweigart](http://automatetheboringstuff.com/chapter0/)
 Python | [Allen B. Downey - How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html)
+Python | [Python for you and me - Kushal Das](http://pymbook.readthedocs.io/en/py3/)
 Python | [John DeNero - Composing Programs](http://composingprograms.com/) & [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
+Python | [Introduction to Programming in Python - Robert Sedgewick, Kevin Wayne](https://introcs.cs.princeton.edu/python/home/)
+JavaScript | [Khan Academy JS Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/programming) & [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 JavaScript | [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.net/)
 JavaScript | [Cody Lindley - JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
+JavaScript | [The Complete Guide to Modern JavaScript - Alberto Montalesi](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript-from-es2015-to-es2018)
 JavaScript | [Nicholas C. Zakas - Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
 
 #### Data Structures in C, Python, and JavaScript
@@ -141,11 +151,17 @@ TypeScript | [TypeScript Essentials](https://medium.com/@wittydeveloper/typescri
 
 Topic | Book
 ------|-------
-Java | [Daniel Liang - Introduction to Java Programming, Comprehensive Version (9th Edition, $15)](https://www.amazon.com/gp/offer-listing/0132936526/ref=dp_olp_used?ie=UTF8&condition=used) (read entire book and do every problem at end of every chapter)
+Java | [Daniel Liang - Introduction to Java Programming, Comprehensive Version (9th Edition, $15)](https://www.amazon.com/gp/offer-listing/0132936526/ref=dp_olp_used?ie=UTF8&condition=used) (read entire book and do every problem at end of every chapter, intrepid googlers can probably find a pdf copy of this online)
+Java | [Java Programming for Kids - Yakov Fain](https://yfain.github.io/Java4Kids/)
+Java | [Introduction to Computer Science using Java - Bradley Kjell](http://www.programmedlessons.org/Java9/index.html)
 Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) & [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  & [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) & [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
-Java Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) & [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
-Java Data Structures | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
-Java Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) & [coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
+Java | [Introduction to Programming Using Java - David J. Eck](http://math.hws.edu/javanotes/)
+Java | [Computer Science: An Interdisciplinary Approach - Robert Sedgewick, Kevin Wayne](https://introcs.cs.princeton.edu/java/home/)
+OOP | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
+Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) & [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
+Data Structures | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
+Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) & [coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
+Java | [What's New in Java 8 - Adam L. Davis](https://leanpub.com/whatsnewinjava8/read)
 
 #### Discrete Mathematics
 
@@ -216,6 +232,14 @@ Linear Algebra | [Linear Algebra: Foundations to Frontiers - The University of T
 Linear Algebra | [Linear Algebra - Jimm Hefferon](http://joshua.smcvt.edu/linearalgebra/)
 Linear Algebra | [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 
+#### Software Design/Architecture
+
+Topic | Book
+------|------
+Software Design | [Software Architecture & Design - Georgia Tech](https://www.udacity.com/course/software-architecture-design--ud821)
+Software Design | [Software Construction in Java - MIT - Part 1](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) & [Part 2](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x)
+Software Design | [CS3: Design in Computing - UNSW](https://www.youtube.com/watch?v=coserN4FO3g&list=PLC3E93EF6B9645D9D)
+
 #### Operating Systems 
 
 Topic | Book
@@ -282,6 +306,9 @@ SE | [Computer Science 169 - Berkeley](https://archive.org/details/ucberkeley-we
 
 #### College Mathematics
 
+Topic | Book
+------|------
+Calculus/Statistics | [Khan Academy](https://www.khanacademy.org/math)
 Calculus | [Calculus I - OpenStax](https://openstax.org/details/books/calculus-volume-1)
 Calculus | [Calculus II - OpenStax](https://openstax.org/details/books/calculus-volume-2)
 Calculus | [Calculus III - OpenStax](https://openstax.org/details/books/calculus-volume-3)
@@ -330,6 +357,50 @@ Haskell | [Yet Another Haskell Tutorial - Hal Daume III](http://users.umiacs.umd
 Haskell | [Introduction to Functional Programming - Delft University of Technology](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 Haskell | [Functional Programming in Haskell - IIT Madras](https://nptel.ac.in/courses/106106137/)
 
+#### HTML/CSS
 
+HTML | [Khan Academy HTML Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/html-css) & [Part 2](https://www.khanacademy.org/computing/computer-programming/html-css-js) & [Part 3](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
+HTML | [HTML Beginner Tutorial](http://www.htmldog.com/)
+HTML/CSS | [How to Code in HTML5 and CSS3 - Damian Wielgosik](http://howtocodeinhtml.com/)
+HTML/CSS | [A Free HTML & CSS Tutorial - MarkSheet.io](https://marksheet.io/)
+CSS | [Learn CSS Layout](http://learnlayout.com/)
+HTML/CSS | [A beginner's guide to HTML&CSS - Shay Howe](https://learn.shayhowe.com/html-css/)
+HTML/CSS | [Learn to Code Advanced HTML & CSS - Shay Howe](https://learn.shayhowe.com/advanced-html-css/)
+HTML | [Dive Into HTML5 - Mark Pilgrim](http://diveinto.html5doctor.com/)
 
+#### Web Development
+Web | [freeCodeCamp](https://freecodecamp.com)
+Node | [The definitive Node.js handbook - Flavio Copes](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
+Node | [What You Need To Know About Node.js - Bruno Joseph Dmello](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-nodejs)
+Node | [Mixu's Node book](http://book.mixu.net/node/)
+Node | [Node.js Succinctly - Emanuele DelBono](https://www.syncfusion.com/ebooks/nodejs)
+Node | [Node.js Guides](https://nodejs.org/en/docs/guides/)
+MongoDb | [The Little MongoDB Book - Karl Seguin](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
+Express | [Express.js & Node.js Course for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=G8uL0lFFoN0)
+Express | [ExpressJS - TutorialsPoint India](https://www.youtube.com/watch?v=r1yeXZ5_i9c&list=PLWPirh4EWFpGNfj9K0dwb0nJAOXwD9BMg)
+Express | [Express Tutorial: The Local Library website - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
+Express | [Express.js Tutorial: Build RESTful APIs with Node and Express | Mosh](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+Express | [ExpressJS Tutorial - TutorialsPoint](https://www.tutorialspoint.com/expressjs/)
+Express | [Learn Express - Codecademy](https://www.codecademy.com/learn/learn-express)
+Express | [ExpressJS Docs](https://expressjs.com/en/starter/installing.html)
+MEAN | [Software Development Capstone Project - The University of British Columbia](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
+MEAN | [Server-side Development with NodeJS, Express and MongoDB - The Hong Kong University of Science and Technology](https://www.coursera.org/learn/server-side-nodejs)
+React | [Intro to React](https://survivejs.com/react/introduction/)
+React | [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+React | [The Road to learn React - Robin Wieruch](https://leanpub.com/the-road-to-learn-react)
+React | [React.js for the Visual Learner - Mike Mangialardi](https://leanpub.com/reactjsforthevisuallearner/read)
+Redux | [REACT JS TUTORIAL - learncode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+Redux | [The Soundcloud Client in React Redux - Robin Wieruch](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
+Redux | [The Complete Redux Book - Ilya Gelman, Boris Dinkevich](https://leanpub.com/redux-book)
+Serverless | [Gatsby Docs](https://www.gatsbyjs.org/docs/)
 
+#### First Year Science and Humanities
+
+Topic | Book
+------|------
+Science | [Khan Academy](https://www.khanacademy.org/)
+Science | [OpenStax Science Textbooks](https://openstax.org/subjects/science)
+Social Sciences | [OpenStax Social Sciences Textbooks](https://openstax.org/subjects/social-sciences)
+History | [Open Stax Humanities Textbooks](https://openstax.org/subjects/humanities)
+History | [Khan Accademy Humanities](https://www.khanacademy.org/humanities)
+Business | [Open Stax Business Textbooks](https://openstax.org/subjects/business)
