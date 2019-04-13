@@ -171,7 +171,7 @@ OOP | [Software Construction: Object-Oriented Design](https://www.edx.org/course
 Data Structure | [Allen B. Downey - Think Data Structures](http://greenteapress.com/wp/think-data-structures/)
 Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) & [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
 Data Structures | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
-Algorithms | [Robert Sedgewick - Algorithms](https://algs4.cs.princeton.edu/home/) & [coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
+Algorithms | [Robert Sedgewick - Algorithms](https://algs4.cs.princeton.edu/home/) & [coursera part 1](https://www.coursera.org/learn/algorithms-part1) & [part 2](https://www.coursera.org/learn/algorithms-part2)
 Java | [Adam L. Davis - What's New in Java 8](https://leanpub.com/whatsnewinjava8/read)
 
 #### Discrete Mathematics
