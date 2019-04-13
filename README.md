@@ -3,7 +3,6 @@
 <h2 align="center">Keep Free Computer Science Education Weird</h2>
 
 #### https://Holm.School
-#### Help support Holm School's success by starring this repo!⭐️
 
 #### So you're thinking about holmschooling
 
