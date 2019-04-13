@@ -200,7 +200,9 @@ Architecture | [Computer Architecture - Carnegie Mellon](https://www.youtube.com
 Architecture | [Computation Structures 2: Computer Architecture - MIT](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)
 Architecture | [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi - Robert G. Plantz](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 Architecture | [NAND2Tetris](https://www.nand2tetris.org/) & [coursera 1](https://www.nand2tetris.org/) & [coursera 2](https://www.coursera.org/learn/nand2tetris2) & [textbook](https://archive.org/details/TheElementsOfComputingSystems_201408)
-Architecture | [Donald Knuth - MMIXware : a RISC computer for the third millennium](https://archive.org/details/springer_10.1007-3-540-46611-8)
+Architecture (optional) | [Donald Knuth - Introduction to MMIX](http://mmix.cs.hm.edu/doc/mmix-doc.pdf)
+Architecture (optional) | [Donald Knuth - MMIX](http://mmix.cs.hm.edu/doc/fasc1.pdf)
+Architecture (optional) | [Donald Knuth - MMIXware : a RISC computer for the third millennium](https://archive.org/details/springer_10.1007-3-540-46611-8)
 
 #### Databases
 
@@ -386,6 +388,7 @@ Pure Math | [An Infinite Descent into Pure Mathematics](https://infinitedescent.
 Pure Math | [Donald Knuth - Concrete Mathematics](https://archive.org/details/B-001-002-135/)
 CS Math | [15-251 Great Theoretical Ideas in Computer Science](http://www.cs.cmu.edu/~arielpro/15251f15/schedule.html) & [YouTube Playlist](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) & [Notes[(http://www.cs.cmu.edu/~15251/notes.html) & 
 CS Math | [Mathematics for Computer Science - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) & [textbook](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+CS Math | [Probability and Computing Lecture Notes](http://www.cs.cmu.edu/~odonnell/papers/probability-and-computing-lecture-notes.pdf)
 
 
 
@@ -475,5 +478,6 @@ Site |
 [Open Source Society University](https://github.com/ossu/computer-science) |
 [Developer-Y - cs-video-courses (github)](https://github.com/Developer-Y/cs-video-courses) |
 [Library Genesis](https://libgen.io) |
+[Sci-hub](http://sci-hub.tw/about) |
 [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) |
 
