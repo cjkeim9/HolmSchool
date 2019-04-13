@@ -186,7 +186,6 @@ Discrete Mathematics | [Computer Science 70, 001 - Spring 2015](https://archive.
 Discrete Mathematics | [Discrete Mathematics - Arsdigita](https://www.youtube.com/playlist?list=PL6pCe7tRct-hEgOxlFzXxQRba_I4zIP4j)
 Discrete Mathematics | [Discrete Math - trevtutor - part 1](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) & [part 2](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 Graph Theory | [Graph Theory - Sarada Herke](https://www.youtube.com/watch?v=eIb1cz06UwI&list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
-Discrete Mathematics | [Mathematics for Computer Science - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) & [textbook](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
 #### Computer Architecture
 
@@ -213,6 +212,7 @@ Databases | [Computer Science 186, Spring 2015 - UC Berkeley](https://archive.or
 Databases | [Readings in Database Systems](http://www.redbook.io/)
 Postgres | [PostgreSQL Tutorial - Part 1](https://www.postgresql.org/docs/current/tutorial.html) & [part 2](https://www.postgresql.org/docs/current/sql.html)
 Postgres | [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
+Databases | [15-445 Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) & [Class Schedule](https://15445.courses.cs.cmu.edu/fall2017/schedule.html)
 C RMDBS | [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 #### Networking
@@ -236,7 +236,9 @@ Linear Algebra | [Linear Algebra - Khan Academy](https://www.khanacademy.org/mat
 Linear Algebra | [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
 Linear Algebra | [Linear Algebra: Foundations to Frontiers - The University of Texas at Austin](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
 Linear Algebra | [Linear Algebra - Jimm Hefferon](http://joshua.smcvt.edu/linearalgebra/)
+Linear Algebra | [Linear Algebra - As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/linear_algebra/index.html)
 Linear Algebra | [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+Linear Algebra | [CS53 - Linear Algebra](http://cs.brown.edu/courses/cs053/current/lectures.htm)
 
 #### Software Design/Architecture
 
@@ -278,6 +280,7 @@ Topic | Book
 Compilers | [Compilers - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 Compilers | [Compiler Design: Theory, Tools, and Examples - Seth D. Bergmann](http://www.stack.nl/~marcov/compiler.pdf) & [code](http://elvis.rowan.edu/~bergmann/books/cd/c_cpp/miniC/)
 Compilers | [Compiler Building Tutorial - Jack W. Crenshaw](http://www.stack.nl/~marcov/compiler.pdf)
+Compilers | [CSE 131 - Compiler](https://cseweb.ucsd.edu/classes/sp17/cse131-a/index.html) & [Lectures](https://podcast.ucsd.edu/podcasts/default.aspx?PodcastId=4014)
 
 #### Computability
 
@@ -362,6 +365,13 @@ Calculus | [Calculus I - OpenStax](https://openstax.org/details/books/calculus-v
 Calculus | [Calculus II - OpenStax](https://openstax.org/details/books/calculus-volume-2)
 Calculus | [Calculus III - OpenStax](https://openstax.org/details/books/calculus-volume-3)
 Statistics | [Introductory Statistics - OpenStax](https://openstax.org/details/books/introductory-statistics)
+Statistics | [Probability and Statistics](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
+Pure Math | [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/)
+Pure Math | [Donald Knuth - Concrete Mathematics](https://archive.org/details/B-001-002-135/)
+CS Math | [15-251 Great Theoretical Ideas in Computer Science](http://www.cs.cmu.edu/~arielpro/15251f15/schedule.html) & [YouTube Playlist](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) & [Notes[(http://www.cs.cmu.edu/~15251/notes.html) & 
+CS Math | [Mathematics for Computer Science - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) & [textbook](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+
+
 
 #### Machine Learning
 
@@ -396,6 +406,8 @@ Topic | Book
 Systems | [Computation Structures - MIT - part 1](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) & [part 2](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) & [part 3](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)
 Systems | [Computer System Engineering - MIT](http://dspace.mit.edu/bitstream/handle/1721.1/118791/6-033-spring-2009/contents/index.htm?sequence=249)
 Systems | [The Hardware/Software Interface Class - Luis Ceze and Gaetano Borriello](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL)
+Systems | [15-213 Intro to Computer Systems - CMU](https://www.cs.cmu.edu/~213/schedule.html) & [Video Lectures](http://scs.hosted.panopto.com/Panopto/Podcast/Podcast.ashx?courseid=b96d90ae-9871-4fae-91e2-b1627b43e25e&type=mp4)
+ML (optional) | [Unix System Programming with Standard ML](http://mlton.org/References.attachments/Shipman02.pdf)
 
 #### Haskell
 
@@ -421,7 +433,7 @@ Business | [Open Stax Business Textbooks](https://openstax.org/subjects/business
 
 #### Supplement your studies
 
-Link |
+Site |
 -------|
 [EbooksFoundation - Free Programming Books (github)](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) |
 [aGupieWare - Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html) |
@@ -431,3 +443,5 @@ Link |
 [Open Source Society University](https://github.com/ossu/computer-science) |
 [Developer-Y - cs-video-courses (github)](https://github.com/Developer-Y/cs-video-courses) |
 [Library Genesis](https://libgen.io) |
+[Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) |
+
