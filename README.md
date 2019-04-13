@@ -94,16 +94,6 @@ OER | [EbookFoundation/free-programming-books](https://github.com/EbookFoundatio
 OER | [OpenStax.org](http://openstax.org)
 OER (optional) | [Open: The Philosophy and Practices that are Revolutionizing Education and Science](https://www.ubiquitypress.com/site/books/10.5334/bbc/)
 
-#### Java Programming
-
-Have you read all 1344 pages of Liang 9th Edition, and done all the exercise problems for every chapter? If not, get started, it'll certainly take a lot of time! When you're comfortable with Java, let's read a couple more java data structures and algorithms books to make sure we're comfortable with beginning computer science and then we can start studying languages other than java!
-
-Topic | Book
-------|-------
-Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) & [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  & [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) & [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
-Java Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) & [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
-Java Data Structures | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
-Java Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) & [coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
 
 #### CS50 as an introduction to C, Python, and Javascript
 
@@ -129,6 +119,33 @@ Python | [Allen B. Downey - Think Complexity](http://greenteapress.com/complexit
 Python | [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 JavaScript | [Data Structures in JavaScript](https://pmary.gitbooks.io/data-structure-in-javascript/content/)
 JavaScript | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+#### TypeScript as a segue into Java
+
+Topic | Book
+------|------
+TypeScript | [TypeScript docs](https://www.typescriptlang.org/docs/home.html)
+TypeScript | [TypeScript Basics](https://www.youtube.com/watch?v=YPShu0H3RbM&list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU&index=1)
+TypeScript | [Want to learn TypeScript? Here’s our free 22-part course.](https://medium.freecodecamp.org/want-to-learn-typescript-heres-our-free-22-part-course-21cd9bbb5ef5)
+TypeScript | [TypeScript Accelerated](https://accelerated.amimetic.co.uk/)
+TypeScript | [Introduction to TypeScript 2](https://www.edx.org/course/introduction-to-typescript-2-3)
+TypeScript | [The Complete TypeScript Programming Guide for Web Developers](https://www.eduonix.com/courses/Web-Development/the-complete-typescript-programming-guide-for-web-developers#)
+TypeScript | [Derek Banas - TypeScript Tutorial](https://www.youtube.com/watch?v=-PR_XqW9JJU)
+TypeScript | [TypeScript Tutorial](https://www.tutorialspoint.com/typescript/index.htm)
+TypeScript | [TypeScript Succinctly](https://www.syncfusion.com/ebooks/typescript)
+TypeScript | [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
+TypeScript | [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
+TypeScript | [TypeScript Essentials](https://medium.com/@wittydeveloper/typescript-essentials-b7ae85b0f561)
+
+#### Java Programming
+
+Topic | Book
+------|-------
+Java | [Daniel Liang - Introduction to Java Programming, Comprehensive Version (9th Edition, $15)](https://www.amazon.com/gp/offer-listing/0132936526/ref=dp_olp_used?ie=UTF8&condition=used) (read entire book and do every problem at end of every chapter)
+Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) & [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  & [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) & [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
+Java Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) & [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
+Java Data Structures | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
+Java Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) & [coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
 
 #### Discrete Mathematics
 
