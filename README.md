@@ -116,7 +116,7 @@ Python | [Automate the Boring Stuff - Al Sweigart](http://automatetheboringstuff
 Python | [Allen B. Downey - How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 Python | [Python for you and me - Kushal Das](http://pymbook.readthedocs.io/en/py3/)
 Python | [John DeNero - Composing Programs](http://composingprograms.com/) & [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
-Python | [Introduction to Programming in Python - Robert Sedgewick, Kevin Wayne](https://introcs.cs.princeton.edu/python/home/)
+Python | [15-112 Fundamentals of Programming and Computer Science](https://www.cs.cmu.edu/~112/schedule.html)
 JavaScript | [Khan Academy JS Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/programming) & [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 JavaScript | [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -268,6 +268,7 @@ ML | [Programming Languages: Standard ML - 1 -> 8 - RU Computer Science](https:/
 ML | [Programming in Standard ML '97: An On-line Tutorial - Stephen Gilmore](http://homepages.inf.ed.ac.uk/stg/NOTES/)
 ML | [Introduction to Standard ML - Atsushi Ohori](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf)
 ML | [Programming in Standard ML - Robert Harper](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
+ML | [The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/)
 Languages | [Practical Foundations for Programming Languages - Robert Harper](https://thelackthereof.org/docs/library/book.pdf) & [course notes](https://www.cs.cmu.edu/~rwh/courses/ppl/)
 
 #### Compilers 
@@ -417,3 +418,16 @@ Social Sciences | [OpenStax Social Sciences Textbooks](https://openstax.org/subj
 History | [Open Stax Humanities Textbooks](https://openstax.org/subjects/humanities)
 History | [Khan Accademy Humanities](https://www.khanacademy.org/humanities)
 Business | [Open Stax Business Textbooks](https://openstax.org/subjects/business)
+
+#### Supplement your studies
+
+Link |
+-------|
+[EbooksFoundation - Free Programming Books (github)](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) |
+[aGupieWare - Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html) |
+[Class Central](https://www.class-central.com/) |
+[A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) |
+[Teach Yourself CS](https://teachyourselfcs.com/)|
+[Open Source Society University](https://github.com/ossu/computer-science) |
+[Developer-Y - cs-video-courses (github)](https://github.com/Developer-Y/cs-video-courses) |
+[Library Genesis](https://libgen.io) |
