@@ -68,10 +68,6 @@ Arch Linux Emulator | [copy.sh/v86](http://copy.sh/v86/?profile=archlinux) (has 
 Fedora 29 (Linux) Emulator | [JSLinux](http://bellard.org/jslinux/) (has vim)
 Linux Terminal | [Linux Containers](https://linuxcontainers.org)
 Linux Terminal + Tutorial | [Linux Zoo](https://linuxzoo.net/)
-Cloud Programming Language | [Snap!](https://snap.berkeley.edu/) & [mooc part 1](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0) & [mooc part 2](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0) & [tutorial](https://bjc.edc.org/bjc-r/course/bjc4nyc.html) & [playlist](https://www.youtube.com/playlist?list=PLA4F0F0CA4A3EE7F4) & [labs](https://cs10.org) & [lab solutions](https://www.youtube.com/playlist?list=PLAE5AE3CD22628741)
-Cloud Programming Language | [CSDT](https://csdt.rpi.edu)
-Cloud Programming Language | [Scratch](https://scratch.mit.edu) & [book1](https://inventwithscratch.com/) & [book1 mooc](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH) & [book2](https://stwww1.weizmann.ac.il/scratch/scratch_en/) & [mooc2](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
-Cloud Programming Language | [Beetle Blocks](http://beetleblocks.com/)
 JS Cloud IDE with NPM | [CodeSandBox](https://codesandbox.io/)
 JS Cloud IDE with NPM | [StackBlitz](https://stackblitz.com/)
 Online Editor | [Ideone](https://ideone.com/)
@@ -84,6 +80,13 @@ Cloud Eclipse IDE | [Orion](https://orionhub.org/)
 Cloud IDE | [AWS Cloud9](https://aws.amazon.com/cloud9/) (~$2 a month)
 Cloud Docker | [Codenvy](https://codenvy.com/)
 Cloud IDE | [Theia](https://www.theia-ide.org/)
+
+Topic | Book
+------|------
+Cloud Beginning Programming | [Snap!](https://snap.berkeley.edu/) & [mooc part 1](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0) & [mooc part 2](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0) & [tutorial](https://bjc.edc.org/bjc-r/course/bjc4nyc.html) & [playlist](https://www.youtube.com/playlist?list=PLA4F0F0CA4A3EE7F4) & [labs](https://cs10.org) & [lab solutions](https://www.youtube.com/playlist?list=PLAE5AE3CD22628741)
+Cloud Beginning Programming | [Scratch](https://scratch.mit.edu) & [book1](https://inventwithscratch.com/) & [book1 mooc](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH) & [book2](https://stwww1.weizmann.ac.il/scratch/scratch_en/) & [mooc2](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
+Cloud Beginning Programming | [Beetle Blocks](http://beetleblocks.com/)
+Cloud Beginning Programming | [Culturally Situated Design Tools](https://csdt.rpi.edu)
 
 #### Open Educational Resources
 
