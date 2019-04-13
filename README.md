@@ -118,6 +118,7 @@ JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.
 JavaScript | [Cody Lindley - JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
 JavaScript | [The Complete Guide to Modern JavaScript - Alberto Montalesi](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript-from-es2015-to-es2018)
 JavaScript | [Nicholas C. Zakas - Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
+Beginning CS | [Learn Programming - Antti Salonen](https://progbook.org/)
 
 #### Data Structures in C, Python, and JavaScript
 After studying data structures and algorithms in Java, learning them in additional languages should come quickly. We throw in some complexity books (Foundations..., Think...) to further expand our CS horizons:
@@ -304,6 +305,48 @@ SE | [CS302: Software Engineering - Saylor](https://learn.saylor.org/course/view
 SE | [Guide to the Software Engineering Body of Knowledge - IEEE](https://ieeecs-media.computer.org/media/education/swebok/swebok-v3.pdf)
 SE | [Computer Science 169 - Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAS_kCeleydK6mDc0kCbdhU)
 
+#### HTML/CSS
+
+Topic | Book
+------|------
+HTML | [Khan Academy HTML Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/html-css) & [Part 2](https://www.khanacademy.org/computing/computer-programming/html-css-js) & [Part 3](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
+HTML | [HTML Beginner Tutorial](http://www.htmldog.com/)
+HTML/CSS | [How to Code in HTML5 and CSS3 - Damian Wielgosik](http://howtocodeinhtml.com/)
+HTML/CSS | [A Free HTML & CSS Tutorial - MarkSheet.io](https://marksheet.io/)
+CSS | [Learn CSS Layout](http://learnlayout.com/)
+HTML/CSS | [A beginner's guide to HTML&CSS - Shay Howe](https://learn.shayhowe.com/html-css/)
+HTML/CSS | [Learn to Code Advanced HTML & CSS - Shay Howe](https://learn.shayhowe.com/advanced-html-css/)
+HTML | [Dive Into HTML5 - Mark Pilgrim](http://diveinto.html5doctor.com/)
+
+#### Web Development
+
+Topic | Book
+------|------
+Web | [freeCodeCamp](https://freecodecamp.com)
+Node | [The definitive Node.js handbook - Flavio Copes](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
+Node | [What You Need To Know About Node.js - Bruno Joseph Dmello](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-nodejs)
+Node | [Mixu's Node book](http://book.mixu.net/node/)
+Node | [Node.js Succinctly - Emanuele DelBono](https://www.syncfusion.com/ebooks/nodejs)
+Node | [Node.js Guides](https://nodejs.org/en/docs/guides/)
+MongoDb | [The Little MongoDB Book - Karl Seguin](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
+Express | [Express.js & Node.js Course for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=G8uL0lFFoN0)
+Express | [ExpressJS - TutorialsPoint India](https://www.youtube.com/watch?v=r1yeXZ5_i9c&list=PLWPirh4EWFpGNfj9K0dwb0nJAOXwD9BMg)
+Express | [Express Tutorial: The Local Library website - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
+Express | [Express.js Tutorial: Build RESTful APIs with Node and Express | Mosh](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+Express | [ExpressJS Tutorial - TutorialsPoint](https://www.tutorialspoint.com/expressjs/)
+Express | [Learn Express - Codecademy](https://www.codecademy.com/learn/learn-express)
+Express | [ExpressJS Docs](https://expressjs.com/en/starter/installing.html)
+MEAN | [Software Development Capstone Project - The University of British Columbia](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
+MEAN | [Server-side Development with NodeJS, Express and MongoDB - The Hong Kong University of Science and Technology](https://www.coursera.org/learn/server-side-nodejs)
+React | [Intro to React](https://survivejs.com/react/introduction/)
+React | [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+React | [The Road to learn React - Robin Wieruch](https://leanpub.com/the-road-to-learn-react)
+React | [React.js for the Visual Learner - Mike Mangialardi](https://leanpub.com/reactjsforthevisuallearner/read)
+Redux | [REACT JS TUTORIAL - learncode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+Redux | [The Soundcloud Client in React Redux - Robin Wieruch](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
+Redux | [The Complete Redux Book - Ilya Gelman, Boris Dinkevich](https://leanpub.com/redux-book)
+Serverless | [Gatsby Docs](https://www.gatsbyjs.org/docs/)
+
 #### College Mathematics
 
 Topic | Book
@@ -322,6 +365,8 @@ ML | [A First Encounter with Machine Learning - Max Welling](https://www.ics.uci
 ML | [Building Machine Learning Systems with Python - Willi Richert, Luis Pedro Coelho](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms)
 ML | [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
 ML | [A Brief Introduction to Machine Learning for Engineers - Osvaldo Simeone]()
+ML | [Tensorflow - Learn](https://www.tensorflow.org/learn)
+ML | [PyTorch - Tutorials](https://pytorch.org/tutorials/)
 ML (optional) | [More videos for those interested](https://github.com/Developer-Y/cs-video-courses#machine-learning)
 
 #### Security
@@ -356,43 +401,6 @@ Haskell | [Real World Haskell - Bryan O'Sullivan, Don Stewart, John Goerzen](htt
 Haskell | [Yet Another Haskell Tutorial - Hal Daume III](http://users.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
 Haskell | [Introduction to Functional Programming - Delft University of Technology](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 Haskell | [Functional Programming in Haskell - IIT Madras](https://nptel.ac.in/courses/106106137/)
-
-#### HTML/CSS
-
-HTML | [Khan Academy HTML Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/html-css) & [Part 2](https://www.khanacademy.org/computing/computer-programming/html-css-js) & [Part 3](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
-HTML | [HTML Beginner Tutorial](http://www.htmldog.com/)
-HTML/CSS | [How to Code in HTML5 and CSS3 - Damian Wielgosik](http://howtocodeinhtml.com/)
-HTML/CSS | [A Free HTML & CSS Tutorial - MarkSheet.io](https://marksheet.io/)
-CSS | [Learn CSS Layout](http://learnlayout.com/)
-HTML/CSS | [A beginner's guide to HTML&CSS - Shay Howe](https://learn.shayhowe.com/html-css/)
-HTML/CSS | [Learn to Code Advanced HTML & CSS - Shay Howe](https://learn.shayhowe.com/advanced-html-css/)
-HTML | [Dive Into HTML5 - Mark Pilgrim](http://diveinto.html5doctor.com/)
-
-#### Web Development
-Web | [freeCodeCamp](https://freecodecamp.com)
-Node | [The definitive Node.js handbook - Flavio Copes](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
-Node | [What You Need To Know About Node.js - Bruno Joseph Dmello](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-nodejs)
-Node | [Mixu's Node book](http://book.mixu.net/node/)
-Node | [Node.js Succinctly - Emanuele DelBono](https://www.syncfusion.com/ebooks/nodejs)
-Node | [Node.js Guides](https://nodejs.org/en/docs/guides/)
-MongoDb | [The Little MongoDB Book - Karl Seguin](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
-Express | [Express.js & Node.js Course for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=G8uL0lFFoN0)
-Express | [ExpressJS - TutorialsPoint India](https://www.youtube.com/watch?v=r1yeXZ5_i9c&list=PLWPirh4EWFpGNfj9K0dwb0nJAOXwD9BMg)
-Express | [Express Tutorial: The Local Library website - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
-Express | [Express.js Tutorial: Build RESTful APIs with Node and Express | Mosh](https://www.youtube.com/watch?v=pKd0Rpw7O48)
-Express | [ExpressJS Tutorial - TutorialsPoint](https://www.tutorialspoint.com/expressjs/)
-Express | [Learn Express - Codecademy](https://www.codecademy.com/learn/learn-express)
-Express | [ExpressJS Docs](https://expressjs.com/en/starter/installing.html)
-MEAN | [Software Development Capstone Project - The University of British Columbia](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
-MEAN | [Server-side Development with NodeJS, Express and MongoDB - The Hong Kong University of Science and Technology](https://www.coursera.org/learn/server-side-nodejs)
-React | [Intro to React](https://survivejs.com/react/introduction/)
-React | [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
-React | [The Road to learn React - Robin Wieruch](https://leanpub.com/the-road-to-learn-react)
-React | [React.js for the Visual Learner - Mike Mangialardi](https://leanpub.com/reactjsforthevisuallearner/read)
-Redux | [REACT JS TUTORIAL - learncode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
-Redux | [The Soundcloud Client in React Redux - Robin Wieruch](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
-Redux | [The Complete Redux Book - Ilya Gelman, Boris Dinkevich](https://leanpub.com/redux-book)
-Serverless | [Gatsby Docs](https://www.gatsbyjs.org/docs/)
 
 #### First Year Science and Humanities
 
