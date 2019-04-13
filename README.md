@@ -106,8 +106,8 @@ OER (optional) | [Open: The Philosophy and Practices that are Revolutionizing Ed
 
 Topic | Book
 ------|--------
-Beginning CS | [Crash Course - Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q)
-Beginning Programming | [cs50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+CS | [Crash Course - Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q)
+Programming | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 C | [Beej's Guide to C Programming](http://beej.us/guide/bgc/html/single/bgc.html)
 C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 C | [Jens Gustedt - Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
@@ -116,7 +116,7 @@ C | [C Programming Exercises, Practice, Solution](https://www.w3resource.com/c-p
 Python | [Python for Everybody - Charles R. Severance](https://py4e.com/book.php) & [mooc](https://www.coursera.org/specializations/python)
 Python | [Automate the Boring Stuff - Al Sweigart](http://automatetheboringstuff.com/chapter0/)
 Python | [Allen B. Downey - How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html)
-Python | [Python for you and me - Kushal Das](http://pymbook.readthedocs.io/en/py3/)
+Python | [Python For You and Me - Kushal Das](http://pymbook.readthedocs.io/en/py3/)
 Python | [John DeNero - Composing Programs](http://composingprograms.com/) & [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
 Python | [15-112 Fundamentals of Programming and Computer Science](https://www.cs.cmu.edu/~112/schedule.html)
 JavaScript | [Khan Academy JS Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/programming) & [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
@@ -125,7 +125,7 @@ JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.
 JavaScript | [Cody Lindley - JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
 JavaScript | [The Complete Guide to Modern JavaScript - Alberto Montalesi](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript-from-es2015-to-es2018)
 JavaScript | [Nicholas C. Zakas - Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
-Beginning CS | [Learn Programming - Antti Salonen](https://progbook.org/)
+CS | [Learn Programming - Antti Salonen](https://progbook.org/)
 
 #### Data Structures in C, Python, and JavaScript
 After studying data structures and algorithms in Java, learning them in additional languages should come quickly. We throw in some complexity books (Foundations..., Think...) to further expand our CS horizons:
@@ -227,6 +227,8 @@ Topic | Book
 ------|------
 Racket | [Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi- How to Design Programs](https://htdp.org/2019-02-24/index.html)
 Pyret | [Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz - Programming and Programming Languages](https://papl.cs.brown.edu/2018/)
+JS | [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
+JS | [getify - Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 
 #### Networking
 
