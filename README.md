@@ -4,6 +4,8 @@
 
 #### So you're thinking about holmschooling
 
+I am very excited to share with you Holm School, a free curriculum for learning computer science that keeps costs as low as possible while ensuring that you get a good learning experience. I think you'll like computer science, because it permits you into some really cool job opportunities and there are multiple avenues of intellectual persuit in the field of computer science. If you are a scientist and love to read science textbooks, then perhaps changing from math, biology, or chemistry into reading computer science textbooks will be a productive use of your time and you'll find it intellectually rewarding. CS is a new field and it's creating some pretty amazing products. There are many challenges in becoming a computer scientist, from the up-front cost of technology, internet, and books (Holm School supports using a Raspberry Pi as your study companion and free open educational resources as primary sources) to the notorious learning curve of learning how to program in a computer language (or two). That doesn't even include the math you'll study and the theory you'll encounter. You'll hopefully find yourself swamped by the sheer amount of topics left in your queue to study as you pursue this noble computer science adventure, but you'll find yourself not angered at the task but instead revelling in it. Almost to the point that you think you'll want to do this full time, for the rest of your life! You'll be happy that computer science is never complete, and you'll pursue new educational opportunities even after experiencing career success as a computer scientist. You'll be a lifelong learner, and in the wake of your individual studies will be useful products that improve the world in little incremental bits. Towards a better world you'll contribute, all just because you found the challenge of computer science something worth slow, deliberate, and focused pursuit.
+
 Holmshoolers are computer scientists that are home schooled, or even better, _unschooled_. Holmschoolers put their faith in open source and know that the open source community has developed free and copyleft educational resources for learning computer science (as well as other disciplines) to the point that paying for anything other than community or local public college is a tremendous risk of one's money. Because open source has been around for so long, there is enough of an archive of cultural works that a computer scientist could receive their training completely using free and open educational resources (OER) on the internet. This doesn't even factor in the utility of the public library in your town -- your public library has many programming books as well as free video tutorial sites like Lynda.com, which hosts many programming lessons in almost every programming language. They also have computers and laptops if you don't have one. Unschooling is learning college-level material on your own for as low of cost as possible, either by necessity or by choice.
 
 Topic | Book
@@ -49,6 +51,29 @@ Raspberry Pi/Debian | [Mark Bates - Conquering the Command Line](http://conqueri
 Raspberry Pi/Debian | [Unix and Linux Visual Quickstart Guide - Deborah Ray, Eric Ray (Sample Excerpt)](http://ptgmedia.pearsoncmg.com/images/9780321997548/samplepages/9780321997548.pdf)
 Raspberry Pi/Debian (optional) | [William Shotts - The Linux Command Line](http://linuxcommand.org/tlcl.php)
 
+#### Cloud Programming
+
+If you are a student that can't afford a Raspberry Pi and has to rely on school computers or public library computers, you know that you aren't able to install any software onto them. What you need is a venue to study programming that exists in the web browser, so that you can boot up chrome and program entirely within it, and be able to run your software in the browser and save your program's source code to a site's database for retrieval. Fortunately, this is possible, and many avenues for pursuing this line of learning how to program are also geared towards beginners. So you can see whether you are interested in learning how to program before making the investment of purchasing a Raspberry Pi. Here are some resources for cloud programming languages and cloud IDEs (integrated development environments, basically text editors that can run your program).
+
+Topic | Book
+---------|-----------
+Cloud IDE | [Code Anywhere - $3 a month](https://codeanywhere.com) (probably worth it if you can only program at the public library or high school)
+Cloud Editor by Language | [Tutorialspoint - Coding Ground](https://www.tutorialspoint.com/codingground.htm)
+Linux Terminal/IDE | [Webminal](http://www.webminal.org/) (has gedit)
+Arch Linux Emulator | [copy.sh/v86](http://copy.sh/v86/?profile=archlinux) (has vim)
+Fedora 29 (Linux) Emulator | [JSLinux](http://bellard.org/jslinux/) (has vim)
+Linux Terminal | [Linux Containers](https://linuxcontainers.org)
+Linux Terminal + Tutorial | [Linux Zoo](https://linuxzoo.net/)
+Cloud Programming Language | [Snap!](https://snap.berkeley.edu/) & [mooc part 1](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0) & [mooc part 2](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0) & [tutorial](https://bjc.edc.org/bjc-r/course/bjc4nyc.html) & [playlist](https://www.youtube.com/playlist?list=PLA4F0F0CA4A3EE7F4) & [labs](https://cs10.org) & [lab solutions](https://www.youtube.com/playlist?list=PLAE5AE3CD22628741)
+Cloud Programming Language | [CSDT](https://csdt.rpi.edu)
+Cloud Programming Language | [Scratch](https://scratch.mit.edu) & [book1](https://inventwithscratch.com/) & [book1 mooc](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH) & [book2](https://stwww1.weizmann.ac.il/scratch/scratch_en/) & [mooc2](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
+Cloud Programming Language | [Beetle Blocks](http://beetleblocks.com/)
+
+
+
+
+
+
 #### Open Educational Resources
 
 Holm School uses OER primarily, because there are many free computer science textbooks thanks to the generosity of many writers the past few decades. Just like I praise the benefits of using a $15 old edition of Liang, there is much to be reaped from even old CS books. OER usually is more in depth than MOOC videos, because videos are usually just the equivalent of Cliffs Notes while books really delve deep into the subject and are much more thorough. Most people know about MOOCs, and there are other compendiums of CS MOOC classes ([ossu](https://github.com/ossu/computer-science)) as well as paid books ([teachyourselfcs.com](https://teachyourselfcs.com/)), but our focus at Holm School is curating the best OER resources for a self-taught college-level equivalent in computer science. I believe that reading CS books is essential training (and an essential habit) for computer scientists. Acquainting yourself with OER ensures that you're able to find new OER resources instead of having to purchase something when the time comes for you to teach yourself something new. Sink the money you save not buying textbooks into VTSAX!
@@ -67,10 +92,10 @@ Have you read all 1344 pages of Liang 9th Edition, and done all the exercise pro
 
 Topic | Book
 ------|-------
-Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) / [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  / [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) / [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
-Java Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) / [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
+Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) & [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  & [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) & [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
+Java Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) & [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
 Java Data Structures | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
-Java Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) /[coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
+Java Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) & [coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
 
 #### CS50 as an introduction to C, Python, and Javascript
 
@@ -80,7 +105,7 @@ Beginning Programming | [cs50](https://www.edx.org/course/cs50s-introduction-to-
 C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 C | [Jens Gustedt - Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 Python | [Allen B. Downey - How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html)
-Python | [John DeNero - Composing Programs](http://composingprograms.com/) / [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
+Python | [John DeNero - Composing Programs](http://composingprograms.com/) & [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
 JavaScript | [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.net/)
 JavaScript | [Cody Lindley - JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
@@ -180,3 +205,48 @@ OS | [Max Hailperin - Operating Systems and Middleware: Supporting Controlled In
 OS | [Learning operating system development using Linux kernel and Raspberry Pi - Sergey Matyukevich](https://github.com/s-matyukevich/raspberry-pi-os)
 OS | [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
 
+#### Programming Languages
+
+Topic | Book
+------|------
+ML | [Programming Languages: Standard ML - 1 -> 8 - RU Computer Science](https://www.youtube.com/user/rucomputerscience/search?query=standard+ML)
+ML | [Programming in Standard ML '97: An On-line Tutorial - Stephen Gilmore](http://homepages.inf.ed.ac.uk/stg/NOTES/)
+ML | [Introduction to Standard ML - Atsushi Ohori](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf)
+ML | [Programming in Standard ML - Robert Harper](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
+Languages | [Practical Foundations for Programming Languages - Robert Harper](https://thelackthereof.org/docs/library/book.pdf) & [course notes](https://www.cs.cmu.edu/~rwh/courses/ppl/)
+
+#### Compilers 
+
+Topic | Book
+-----|------
+Compilers | [Compilers - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+Compilers | [Compiler Design: Theory, Tools, and Examples - Seth D. Bergmann](http://www.stack.nl/~marcov/compiler.pdf) & [code](http://elvis.rowan.edu/~bergmann/books/cd/c_cpp/miniC/)
+Compilers | [Compiler Building Tutorial - Jack W. Crenshaw](http://www.stack.nl/~marcov/compiler.pdf)
+
+#### Computability
+
+Topic | Book
+------|------
+Computability | [Introduction to the Theory of Computation - ArsDigita](https://www.youtube.com/playlist?list=PL601FC994BDD963E4)
+Computability | [Foundations of Computation - Carol Critchlow, David Eck](http://math.hws.edu/FoundationsOfComputation/)
+Computability | [Theory of Computation - UCDavis](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
+Computability | [Introduction to Theory of Computation - Anil Maheshwari and Michiel Smid](http://cglab.ca/~michiel/TheoryOfComputation/)
+Computability | [Models of Computation: Exploring the Power of Computing - John E. Savage](http://cs.brown.edu/people/jsavage/book/)
+
+#### AI
+
+Topic | Book
+-----|------
+AI | [The Quest for Artificial Intelligence: A History of Ideas and Achievements - Nils J. Nilsson](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
+AI | [CS188 Intro to AI - Berkeley](http://ai.berkeley.edu/) & [playlist](http://ai.berkeley.edu/lecture_videos.html)
+AI | [Artificial Intelligence - Ravensburg-Weingarten University](https://www.youtube.com/watch?v=katiy95_mxo&list=PL39B5D3AFC249556A)
+AI | [CS405: Artificial Intelligence - Saylor](https://learn.saylor.org/course/view.php?id=96)
+AI | [CS408: Advanced Artificial Intelligence - Saylor](https://learn.saylor.org/course/view.php?id=81)
+AI | [Artificial Intelligence: Foundations of Computational Agents,  2nd Edition](https://artint.info/2e/html/ArtInt2e.html)
+
+#### Machine Learning
+
+Topic | Book
+-----|-------
+ML | [A First Encounter with Machine Learning - Max Welling](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)
+ML | [A Brief Introduction to Machine Learning for Engineers - Osvaldo Simeone]()
