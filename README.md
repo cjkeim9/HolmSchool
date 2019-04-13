@@ -158,16 +158,16 @@ TypeScript | [TypeScript Essentials](https://medium.com/@wittydeveloper/typescri
 Topic | Book
 ------|-------
 Java | [Daniel Liang - Introduction to Java Programming, Comprehensive Version (9th Edition, $15)](https://www.amazon.com/gp/offer-listing/0132936526/ref=dp_olp_used?ie=UTF8&condition=used) (read entire book and do every problem at end of every chapter, intrepid googlers can probably find a pdf copy of this online)
-Java | [Java Programming for Kids - Yakov Fain](https://yfain.github.io/Java4Kids/)
-Java | [Introduction to Computer Science using Java - Bradley Kjell](http://www.programmedlessons.org/Java9/index.html)
-Java | AP Computer Science A: Java Programming - Purdue (edX) [part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) & [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  & [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) & [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
-Java | [Introduction to Programming Using Java - David J. Eck](http://math.hws.edu/javanotes/)
-Java | [Computer Science: An Interdisciplinary Approach - Robert Sedgewick, Kevin Wayne](https://introcs.cs.princeton.edu/java/home/)
+Java | [Yakov Fain - Java Programming for Kids](https://yfain.github.io/Java4Kids/)
+Java | [Bradley Kjell - Introduction to Computer Science using Java](http://www.programmedlessons.org/Java9/index.html)
+Java | [AP Computer Science A: Java Programming - Purdue (edX) - Part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) & [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  & [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) & [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
+Java | [David J. Eck - Introduction to Programming Using Java](http://math.hws.edu/javanotes/)
+Java | [Robert Sedgewick, Kevin Wayne - Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)
 OOP | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) & [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
 Data Structures | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
-Algorithms | [textbook](https://algs4.cs.princeton.edu/home/) & [coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
-Java | [What's New in Java 8 - Adam L. Davis](https://leanpub.com/whatsnewinjava8/read)
+Algorithms | [Robert Sedgewick - Algorithms](https://algs4.cs.princeton.edu/home/) & [coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
+Java | [Adam L. Davis - What's New in Java 8](https://leanpub.com/whatsnewinjava8/read)
 
 #### Discrete Mathematics
 
