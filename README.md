@@ -127,4 +127,56 @@ Architecture | [Computation Structures 2: Computer Architecture - MIT](https://w
 Architecture | [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi - Robert G. Plantz](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 Architecture | [NAND2Tetris](https://www.nand2tetris.org/) & [coursera 1](https://www.nand2tetris.org/) & [coursera 2](https://www.coursera.org/learn/nand2tetris2) & [textbook](https://archive.org/details/TheElementsOfComputingSystems_201408)
 
+#### Databases
+
+Topic | Book
+-----|-------
+SQL | [Khan Academy SQL Tutorials](https://www.khanacademy.org/computing/computer-programming/sql)
+SQL | [Introduction to SQL - Launch School](https://launchschool.com/books/sql)
+Databases | [Database Design - Adrienne Watt](https://opentextbc.ca/dbdesign01/)
+Databases | [CS403: Introduction to Modern Database Systems](https://learn.saylor.org/course/view.php?id=93)
+Databases | [CS410: Advanced Databases](https://learn.saylor.org/course/cs410)
+Databases | [Stanford Online Databases](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
+Databases | [Computer Science 186, Spring 2015 - UC Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
+Databases | [Readings in Database Systems](http://www.redbook.io/)
+Postgres | [PostgreSQL Tutorial - Part 1](https://www.postgresql.org/docs/current/tutorial.html) & [part 2](https://www.postgresql.org/docs/current/sql.html)
+Postgres | [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
+C RMDBS | [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+
+#### Networking
+
+Topic | Book
+-------|--------
+Networking | [An Introduction to Computer Networks - Peter L Dordal](http://intronetworks.cs.luc.edu/)
+Networking | [CS402: Computer Communications and Networks](https://learn.saylor.org/course/view.php?id=84)
+Networking | [Computer Networking : Principles, Protocols and Practice](https://open.umn.edu/opentextbooks/textbooks/computer-networking-principles-protocols-and-practice) & [2nd source](https://www.computer-networking.info/1st/html/index.html)
+Networking | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+Networking | [Introduction to Data Communications 2013](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
+Networking | [Larry Peterson and Bruce Davie - Computer Networks: A Systems Approach](https://book.systemsapproach.org/) & [solution manual](https://textbooks.elsevier.com/manualsprotectedtextbooks/9780123850591/PD5e_Solutions_Manual.pdf) & [github](https://github.com/SystemsApproach)
+Networking | [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
+
+#### Linear Algebra
+
+Topic | Book
+-----|------
+Linear Algebra | [Essence of linear algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+Linear Algebra | [Linear Algebra - Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+Linear Algebra | [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+Linear Algebra | [Linear Algebra: Foundations to Frontiers - The University of Texas at Austin](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
+Linear Algebra | [Linear Algebra - Jimm Hefferon](http://joshua.smcvt.edu/linearalgebra/)
+Linear Algebra | [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+
+#### Operating Systems 
+
+Topic | Book
+------|-------
+OS | [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
+OS | [Think OS](http://www.greenteapress.com/thinkos/index.html)
+OS | [Operating Systems: Three Easy Pieces - Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+OS | [CS 162 Operating Systems, Spring 2015 - Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+OS | [ops-class.org](https://www.ops-class.org/)
+OS | [CS401: Operating Systems - Saylor.org](https://learn.saylor.org/course/view.php?id=94)
+OS | [Max Hailperin - Operating Systems and Middleware: Supporting Controlled Interaction](https://gustavus.edu/mcs/max/os-book/)
+OS | [Learning operating system development using Linux kernel and Raspberry Pi - Sergey Matyukevich](https://github.com/s-matyukevich/raspberry-pi-os)
+OS | [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
 
