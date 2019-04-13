@@ -51,6 +51,8 @@ Raspberry Pi/Debian | [Introduction to the Command Line](https://launchschool.co
 Raspberry Pi/Debian | [Malcolm Maclean - Just Enough Linux](https://leanpub.com/jelinux/read)
 Raspberry Pi/Debian | [Mark Bates - Conquering the Command Line](http://conqueringthecommandline.com/book)
 Raspberry Pi/Debian | [Unix and Linux Visual Quickstart Guide - Deborah Ray, Eric Ray (Sample Excerpt)](http://ptgmedia.pearsoncmg.com/images/9780321997548/samplepages/9780321997548.pdf)
+Raspberry Pi/Debian | [CS 2043 Unix Tools & Scripting](http://www.cs.cornell.edu/courses/cs2043/2019sp/schedule.html)
+Raspberry Pi/Debian | [15-131 – Great Practical Ideas in CS](https://www.cs.cmu.edu/~15131/f17/)
 Raspberry Pi/Debian (optional) | [William Shotts - The Linux Command Line](http://linuxcommand.org/tlcl.php)
 
 #### Cloud Programming
@@ -164,6 +166,7 @@ Java | [AP Computer Science A: Java Programming - Purdue (edX) - Part 1](https:/
 Java | [David J. Eck - Introduction to Programming Using Java](http://math.hws.edu/javanotes/)
 Java | [Robert Sedgewick, Kevin Wayne - Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)
 OOP | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
+Data Structure | [Allen B. Downey - Think Data Structures](http://greenteapress.com/wp/think-data-structures/)
 Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) & [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
 Data Structures | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
 Algorithms | [Robert Sedgewick - Algorithms](https://algs4.cs.princeton.edu/home/) & [coursera part 1](https://www.coursera.org/learn/algorithms-part1) | [part 2](https://www.coursera.org/learn/algorithms-part2)
@@ -197,6 +200,7 @@ Architecture | [Computer Architecture - Carnegie Mellon](https://www.youtube.com
 Architecture | [Computation Structures 2: Computer Architecture - MIT](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)
 Architecture | [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi - Robert G. Plantz](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 Architecture | [NAND2Tetris](https://www.nand2tetris.org/) & [coursera 1](https://www.nand2tetris.org/) & [coursera 2](https://www.coursera.org/learn/nand2tetris2) & [textbook](https://archive.org/details/TheElementsOfComputingSystems_201408)
+Architecture | [Donald Knuth - MMIXware : a RISC computer for the third millennium](https://archive.org/details/springer_10.1007-3-540-46611-8)
 
 #### Databases
 
@@ -214,6 +218,13 @@ Postgres | [PostgreSQL Tutorial - Part 1](https://www.postgresql.org/docs/curren
 Postgres | [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
 Databases | [15-445 Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) & [Class Schedule](https://15445.courses.cs.cmu.edu/fall2017/schedule.html)
 C RMDBS | [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+
+#### Introduction to Functional Programming
+
+Topic | Book 
+------|------
+Racket | [Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi- How to Design Programs](https://htdp.org/2019-02-24/index.html)
+Pyret | [Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz - Programming and Programming Languages](https://papl.cs.brown.edu/2018/)
 
 #### Networking
 
@@ -270,7 +281,9 @@ ML | [Programming Languages: Standard ML - 1 -> 8 - RU Computer Science](https:/
 ML | [Programming in Standard ML '97: An On-line Tutorial - Stephen Gilmore](http://homepages.inf.ed.ac.uk/stg/NOTES/)
 ML | [Introduction to Standard ML - Atsushi Ohori](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf)
 ML | [Programming in Standard ML - Robert Harper](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
+ML | [Effective ML](https://www.youtube.com/watch?v=-J8YyfrSwTk)
 ML | [The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/)
+ML | [PL Homework](https://courses.cs.washington.edu/courses/cse341/16sp/#homeworks)
 Languages | [Practical Foundations for Programming Languages - Robert Harper](https://thelackthereof.org/docs/library/book.pdf) & [course notes](https://www.cs.cmu.edu/~rwh/courses/ppl/)
 
 #### Compilers 
@@ -302,6 +315,7 @@ AI | [Artificial Intelligence - Ravensburg-Weingarten University](https://www.yo
 AI | [CS405: Artificial Intelligence - Saylor](https://learn.saylor.org/course/view.php?id=96)
 AI | [CS408: Advanced Artificial Intelligence - Saylor](https://learn.saylor.org/course/view.php?id=81)
 AI | [Artificial Intelligence: Foundations of Computational Agents,  2nd Edition](https://artint.info/2e/html/ArtInt2e.html)
+AI (optional) | [Peter Norvig - Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
 
 
 #### Software Engineering
@@ -364,6 +378,8 @@ Calculus/Statistics | [Khan Academy](https://www.khanacademy.org/math)
 Calculus | [Calculus I - OpenStax](https://openstax.org/details/books/calculus-volume-1)
 Calculus | [Calculus II - OpenStax](https://openstax.org/details/books/calculus-volume-2)
 Calculus | [Calculus III - OpenStax](https://openstax.org/details/books/calculus-volume-3)
+Statistics | [Allen B. Downey - Think Stats](https://greenteapress.com/wp/think-stats-2e/)
+Statistics | [Allen B. Downey - Think Bayes](http://greenteapress.com/wp/think-bayes/)
 Statistics | [Introductory Statistics - OpenStax](https://openstax.org/details/books/introductory-statistics)
 Statistics | [Probability and Statistics](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
 Pure Math | [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/)
@@ -419,6 +435,10 @@ Haskell | [Real World Haskell - Bryan O'Sullivan, Don Stewart, John Goerzen](htt
 Haskell | [Yet Another Haskell Tutorial - Hal Daume III](http://users.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
 Haskell | [Introduction to Functional Programming - Delft University of Technology](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 Haskell | [Functional Programming in Haskell - IIT Madras](https://nptel.ac.in/courses/106106137/)
+OCaml (optional) | [Allen Downey and Nicholas Monje - How to Think Like a (Functional) Programmer](http://greenteapress.com/thinkocaml/)
+OCaml (optional) | [CS3110  - Cornell](https://www.cs.cornell.edu/courses/cs3110/2018sp/) & [textbook](http://www.cs.cornell.edu/courses/cs3110/2018fa/textbook/)
+OCaml (optional) | [Functional Data Structures](https://cs.uwaterloo.ca/~plragde/flaneries/FDS/)
+
 
 #### First Year Science and Humanities
 
@@ -431,7 +451,19 @@ History | [Open Stax Humanities Textbooks](https://openstax.org/subjects/humanit
 History | [Khan Accademy Humanities](https://www.khanacademy.org/humanities)
 Business | [Open Stax Business Textbooks](https://openstax.org/subjects/business)
 
+
+#### Rust
+
+Topic | Book
+Rust | [Jim Blandy - Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf)
+Rust | [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+Rust | [Steve Klabnik - Rust for Rubyists](http://www.rustforrubyists.com/book/book.html)
+Rust | [The Rust Programming Language - Nicholas Matsakis, Aaron Turon](https://doc.rust-lang.org/book/2018-edition/index.html)
+Rust | [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+
 #### Supplement your studies
+
+Now that the show is over, and we have jointly exercised our constitutional rights, we would like to leave you with one very important thought: Some time in the future, you may have the opportunity to serve as a juror in a censorship case or a so-called obscenity case. It would be wise to remember that the same people who would stop you from listening to Holm School may be back next year to complain about a book, or even a TV program. If you can be told what you can see or read, then it follows that you can be told what to say or think. Defend your constitutionally protected rights - no one else will do it for you. Thank you.
 
 Site |
 -------|
