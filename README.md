@@ -53,11 +53,12 @@ Raspberry Pi/Debian (optional) | [William Shotts - The Linux Command Line](http:
 
 #### Cloud Programming
 
-If you are a student that can't afford a Raspberry Pi and has to rely on school computers or public library computers, you know that you aren't able to install any software onto them. What you need is a venue to study programming that exists in the web browser, so that you can boot up chrome and program entirely within it, and be able to run your software in the browser and save your program's source code to a site's database for retrieval. Fortunately, this is possible, and many avenues for pursuing this line of learning how to program are also geared towards beginners. So you can see whether you are interested in learning how to program before making the investment of purchasing a Raspberry Pi. Here are some resources for cloud programming languages and cloud IDEs (integrated development environments, basically text editors that can run your program).
+If you are a student that can't afford a Raspberry Pi and has to rely on school computers or public library computers, you know that you aren't able to install any software onto them. What you need is a venue to study programming that exists in the web browser, so that you can boot up chrome and program entirely within it, and be able to run your software in the browser and save your program's source code to a site's database for retrieval. Fortunately, this is possible, and many avenues for pursuing this line of learning how to program are also geared towards beginners. So you can see whether you are interested in learning how to program before making the investment of purchasing a Raspberry Pi. Here are some resources for cloud programming languages and cloud IDEs (integrated development environments, basically text editors that can run your program). Cloud IDEs are constantly being created as well as going out of business, so googling around might fetch some updated results.
 
 Topic | Book
 ---------|-----------
 Cloud IDE | [Code Anywhere - $3 a month](https://codeanywhere.com) (probably worth it if you can only program at the public library or high school)
+Cloud IDE | [CodeTasty](https://codetasty.com/)
 Cloud Editor by Language | [Tutorialspoint - Coding Ground](https://www.tutorialspoint.com/codingground.htm)
 Linux Terminal/IDE | [Webminal](http://www.webminal.org/) (has gedit)
 Arch Linux Emulator | [copy.sh/v86](http://copy.sh/v86/?profile=archlinux) (has vim)
@@ -68,11 +69,18 @@ Cloud Programming Language | [Snap!](https://snap.berkeley.edu/) & [mooc part 1]
 Cloud Programming Language | [CSDT](https://csdt.rpi.edu)
 Cloud Programming Language | [Scratch](https://scratch.mit.edu) & [book1](https://inventwithscratch.com/) & [book1 mooc](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH) & [book2](https://stwww1.weizmann.ac.il/scratch/scratch_en/) & [mooc2](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
 Cloud Programming Language | [Beetle Blocks](http://beetleblocks.com/)
-
-
-
-
-
+JS Cloud IDE with NPM | [CodeSandBox](https://codesandbox.io/)
+JS Cloud IDE with NPM | [StackBlitz](https://stackblitz.com/)
+Online Editor | [Ideone](https://ideone.com/)
+Web Dev IDE | [Source Lair](https://www.sourcelair.com/features)
+Cloud IDE | [Eclipse Che](https://www.eclipse.org/che)
+Cloud Dev Env | [repl.it](https://repl.it/)
+Github Cloud IDE | [GitPod](https://www.gitpod.io/)
+Cloud VS Code | [Coder](https://coder.com/)
+Cloud Eclipse IDE | [Orion](https://orionhub.org/)
+Cloud IDE | [AWS Cloud9](https://aws.amazon.com/cloud9/) (~$2 a month)
+Cloud Docker | [Codenvy](https://codenvy.com/)
+Cloud IDE | [Theia](https://www.theia-ide.org/)
 
 #### Open Educational Resources
 
