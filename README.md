@@ -464,11 +464,25 @@ Business | [Open Stax Business Textbooks](https://openstax.org/subjects/business
 #### Rust
 
 Topic | Book
+-----|-------
 Rust | [Jim Blandy - Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf)
 Rust | [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 Rust | [Steve Klabnik - Rust for Rubyists](http://www.rustforrubyists.com/book/book.html)
 Rust | [The Rust Programming Language - Nicholas Matsakis, Aaron Turon](https://doc.rust-lang.org/book/2018-edition/index.html)
 Rust | [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+
+#### Go
+
+Topic | Book
+------|------
+Go | [Go Bootcamp: Everything You Need to Know to Get Started with Go - Matt Aimonetti](http://www.golangbootcamp.com/)
+Go | [An Introduction to Programming in Go - Caleb Doxsey](http://www.golang-book.com/books/intro)
+Go | [The Little Go Book - Karl Seguin](https://github.com/karlseguin/the-little-go-book)
+Go | [The Way To Go: A Thorough Introduction To The Go Programming Language - Ivo Balbaert](https://archive.org/details/TheWayToGo)
+Go | [Go Programming - John P. Baugh](https://archive.org/details/GoProgramming)
+Go | [Go by Example - Mark McGranaghan](https://gobyexample.com/)
+Go | [Building Web Apps with Go - Jeremy Saenz](https://codegangsta.gitbooks.io/building-web-apps-with-go/)
+Go | [Web apps in Go, the anti textbook - Suraj Patil](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
 #### Supplement your studies
 
