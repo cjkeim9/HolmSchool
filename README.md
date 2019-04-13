@@ -269,9 +269,67 @@ AI | [CS405: Artificial Intelligence - Saylor](https://learn.saylor.org/course/v
 AI | [CS408: Advanced Artificial Intelligence - Saylor](https://learn.saylor.org/course/view.php?id=81)
 AI | [Artificial Intelligence: Foundations of Computational Agents,  2nd Edition](https://artint.info/2e/html/ArtInt2e.html)
 
+
+#### Software Engineering
+
+Topic | Book
+------|-------
+SE | [Software Engineering: Introduction - The University of British Columbia](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+SE | [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning)
+SE | [CS302: Software Engineering - Saylor](https://learn.saylor.org/course/view.php?id=73)
+SE | [Guide to the Software Engineering Body of Knowledge - IEEE](https://ieeecs-media.computer.org/media/education/swebok/swebok-v3.pdf)
+SE | [Computer Science 169 - Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAS_kCeleydK6mDc0kCbdhU)
+
+#### College Mathematics
+
+Calculus | [Calculus I - OpenStax](https://openstax.org/details/books/calculus-volume-1)
+Calculus | [Calculus II - OpenStax](https://openstax.org/details/books/calculus-volume-2)
+Calculus | [Calculus III - OpenStax](https://openstax.org/details/books/calculus-volume-3)
+Statistics | [Introductory Statistics - OpenStax](https://openstax.org/details/books/introductory-statistics)
+
 #### Machine Learning
 
 Topic | Book
 -----|-------
 ML | [A First Encounter with Machine Learning - Max Welling](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)
+ML | [Building Machine Learning Systems with Python - Willi Richert, Luis Pedro Coelho](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms)
+ML | [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
 ML | [A Brief Introduction to Machine Learning for Engineers - Osvaldo Simeone]()
+ML (optional) | [More videos for those interested](https://github.com/Developer-Y/cs-video-courses#machine-learning)
+
+#### Security
+
+Topic | Book
+-----|-------
+Cryptography | [The Cryptoparty Handbook](https://unglue.it/work/141611/)
+Cryptography | [Crypto 101 - Laurens Van Houtven](https://www.crypto101.io/)
+Cryptography | [Cryptography - Stanford- part 1](https://www.coursera.org/learn/crypto) & [part 2](https://www.coursera.org/learn/crypto2)
+Cryptography | [Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone - Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
+Cryptography | [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/featured)
+Sec | [Introduction to IT Security - Steven Gordon](https://www.youtube.com/watch?v=bx5CPmNbblI&list=PLvifRcqOOwF89bqRiJEWyu5k7qJaTNMRj)
+Sec | [Security Engineering - Ross Anderson](https://www.cl.cam.ac.uk/~rja14/book.html)
+Sec | [Security and Cryptography 2012 - Thammasat University](https://www.youtube.com/playlist?list=PLvifRcqOOwF-b74gWV5TpyMFFs2dVlqTt)
+Sec (optional) | [More videos for those interested](https://github.com/Developer-Y/cs-video-courses#security)
+
+### Systems Programming
+
+Topic | Book 
+------|------
+Systems | [Computation Structures - MIT - part 1](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) & [part 2](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) & [part 3](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)
+Systems | [Computer System Engineering - MIT](http://dspace.mit.edu/bitstream/handle/1721.1/118791/6-033-spring-2009/contents/index.htm?sequence=249)
+Systems | [The Hardware/Software Interface Class - Luis Ceze and Gaetano Borriello](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL)
+
+#### Haskell
+
+Topic | Book
+------|-------
+Haskell | [Learn Haskell Fast and Hard - Yann Esposito](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+Haskell | [Learn You A Haskell For Great Good - Miran Lipovaca](http://learnyouahaskell.com/)
+Haskell | [Real World Haskell - Bryan O'Sullivan, Don Stewart, John Goerzen](http://book.realworldhaskell.org/)
+Haskell | [Yet Another Haskell Tutorial - Hal Daume III](http://users.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
+Haskell | [Introduction to Functional Programming - Delft University of Technology](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
+Haskell | [Functional Programming in Haskell - IIT Madras](https://nptel.ac.in/courses/106106137/)
+
+
+
+
