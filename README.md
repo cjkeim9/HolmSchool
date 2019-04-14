@@ -194,6 +194,7 @@ Java | [AP Computer Science A: Java Programming - Purdue (edX) - Part 1](https:/
 Java | [David J. Eck - Introduction to Programming Using Java](http://math.hws.edu/javanotes/)
 Java | [Robert Sedgewick, Kevin Wayne - Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)
 OOP | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
+OOP | [Object-Oriented programming with Java, part I](http://moocfi.github.io/courses/2013/programming-part-1/) & [Part 2](http://moocfi.github.io/courses/2013/programming-part-2/)
 Data Structure | [Allen B. Downey - Think Data Structures](http://greenteapress.com/wp/think-data-structures/)
 Data Structures | [Berkeley website with videos](https://sp18.datastructur.es/) & [archive video](https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?sort=titleSorter)
 Data Structures | [Pat Morin - Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf) | [website](http://opendatastructures.org)
