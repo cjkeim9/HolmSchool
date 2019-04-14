@@ -254,9 +254,9 @@ C RMDBS | [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 Topic | Book 
 ------|------
-Racket | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
-Racket | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
-Racket | [Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi- How to Design Programs](https://htdp.org/2019-02-24/index.html)
+Racket (optional) | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
+Racket (optional) | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+Racket (optional) | [Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi- How to Design Programs](https://htdp.org/2019-02-24/index.html)
 Pyret | [Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz - Programming and Programming Languages](https://papl.cs.brown.edu/2018/)
 JS | [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 JS | [getify - Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
