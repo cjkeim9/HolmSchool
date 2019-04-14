@@ -254,6 +254,7 @@ C RMDBS | [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 Topic | Book 
 ------|------
+Racket | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 Racket | [Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi- How to Design Programs](https://htdp.org/2019-02-24/index.html)
 Pyret | [Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz - Programming and Programming Languages](https://papl.cs.brown.edu/2018/)
 JS | [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
