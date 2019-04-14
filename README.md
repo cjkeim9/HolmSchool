@@ -87,7 +87,9 @@ Cloud IDE | [Theia](https://www.theia-ide.org/)
 
 #### Browser-based Programming
 
-Only need a web browser to code here, so it's where I'd like to start you off. You can always code in JavaScript in your computer's text editor (Text Edit or NotePad), then open up the file in a web browser to run it. But with the cloud IDEs above, you should be able to program in any language and save your files to a cloud account, so don't feel like you can't go beyond this category if you're using a school or public library computer (just use a Cloud IDE!). Use a prepaid credit card if you need to subscribe to a Cloud IDE don't have a credit card. Macs come with Ruby preinstalled, so you can always [learn to program Ruby](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby) if your public computer is a Mac. Chromebookers can install "Caret" for a text editor. You can program CSS/HTML/JS on a Chromebook and run the files locally in Chrome. If you find an affordable Chromebook and a Cloud IDE you like, you could basically learn to program on an affordable laptop (I would still recommend installing Debian on a cheap laptop though).
+Only need a web browser to code here, so it's where I'd like to start you off.
+
+You can always code in JavaScript/HTML/CSS in your computer's text editor (Text Edit or NotePad), then open up the file in a web browser to run it. Macs come with Ruby preinstalled, so you can always [learn to program Ruby](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby) if your public computer is a Mac. Chromebookers can install "Caret" for a text editor.If you find an affordable Chromebook and a Cloud IDE you like, you could basically learn to program on an affordable laptop (I would still recommend installing Debian on a cheap laptop though). With the cloud IDEs listed above, you should be able to program in any language and save your files to a cloud account, so don't feel like you can't go beyond this category if you're stuck using a school or public library computer. 
 
 Topic | Book
 ------|------
