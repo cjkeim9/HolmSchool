@@ -39,7 +39,7 @@ Java | [Daniel Liang - Introduction to Java Programming, Comprehensive Version (
 
 #### Set Up Your Raspberry Pi
 
-Now let's set your Raspberry Pi up for development. Install Java 8 for Liang, and Visual Studio Code for an IDE. Install chromium for a browser, and python 3 while we're at it.
+Now let's set your Raspberry Pi up for development. Install Java 8 for Liang, and Visual Studio Code for an IDE. Install chromium for a browser, and python 3 and node while we're at it.
 
 Topic    | Book
 ---------|----------
@@ -47,6 +47,7 @@ Raspberry Pi/Debian | [Install Java on a Raspberry Pi](https://gist.github.com/r
 Raspberry Pi/Debian | Install Python: ```sudo apt-get install python3-pip```
 Raspberry Pi/Debian | Install Chromium: ```sudo apt-get install chromium```
 Raspberry Pi/Debian | Install VS Code: ```sudo apt update``` ```sudo apt-get install snapd``` ```sudo reboot``` (save first) ```sudo snap install code --classic``` 
+Raspberry Pi/Debian | Install Node: ```sudo snap install node --classic --channel=11```
 Raspberry Pi/Debian | [Linux Basics: The Command Line Interface (edX)](https://www.edx.org/course/linux-basics-the-command-line-interface)
 Raspberry Pi/Debian | [Introduction to Linux (edX)](https://www.edx.org/course/introduction-to-linux)
 Raspberry Pi/Debian | [Introduction to the Command Line](https://launchschool.com/books/command_line)
