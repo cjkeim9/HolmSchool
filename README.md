@@ -494,7 +494,7 @@ History | [Khan Accademy Humanities](https://www.khanacademy.org/humanities)
 Business | [Open Stax Business Textbooks](https://openstax.org/subjects/business)
 
 
-#### Rust
+#### Rust (optional)
 
 Topic | Book
 -----|-------
@@ -504,7 +504,7 @@ Rust | [Steve Klabnik - Rust for Rubyists](http://www.rustforrubyists.com/book/b
 Rust | [The Rust Programming Language - Nicholas Matsakis, Aaron Turon](https://doc.rust-lang.org/book/2018-edition/index.html)
 Rust | [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
-#### Go
+#### Go (optional)
 
 Topic | Book
 ------|------
