@@ -402,6 +402,8 @@ Redux | [The Soundcloud Client in React Redux - Robin Wieruch](https://www.robin
 Redux | [The Complete Redux Book - Ilya Gelman, Boris Dinkevich](https://leanpub.com/redux-book)
 Serverless | [Gatsby Docs](https://www.gatsbyjs.org/docs/)
 GraphQL | [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
+GraphQL | [GraphQL Full Course - Novice to Expert](https://www.youtube.com/watch?v=ed8SzALpx1Q)
+GraphQL | [GraphQL Server Intermediate Tutorial](https://www.youtube.com/watch?v=-iwjiiCGiO0)
 
 #### College Mathematics
 
@@ -515,6 +517,7 @@ Go | [Web apps in Go, the anti textbook - Suraj Patil](https://github.com/thewhi
 
 #### Supplement your studies
 
+Good luck everyone! Let me know your success stories using this curriculum and suggestions! Keep studying computer science for your whole life! In the future even graduate-level courses will be put online, so you can get more advanced classes through OpenCourseWare and fuel life long learning!
 
 Site |
 -------|
