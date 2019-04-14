@@ -125,7 +125,7 @@ p5.js | [Programming with Text - shiffman](https://www.youtube.com/user/shiffman
 p5.js | [Coding Challenges (p5.js) - shiffman](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 
 
-#### CS50 as an introduction to C, Python, and Javascript
+#### Harvard's CS50 as an introduction to C, Python, and Javascript
 
 Topic | Book
 ------|--------
@@ -140,7 +140,7 @@ Python | [Python For You and Me - Kushal Das](http://pymbook.readthedocs.io/en/p
 JavaScript | [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.net/)
 
-#### Deeper dive into C, Python, and JS
+#### Further investigation of C, Python, and JS
 
 Book | Topic
 -----|-------
