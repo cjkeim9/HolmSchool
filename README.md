@@ -462,7 +462,7 @@ Systems | [Computation Structures - MIT - part 1](https://www.edx.org/course/com
 Systems | [Computer System Engineering - MIT](http://dspace.mit.edu/bitstream/handle/1721.1/118791/6-033-spring-2009/contents/index.htm?sequence=249)
 Systems | [The Hardware/Software Interface Class - Luis Ceze and Gaetano Borriello](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL)
 Systems | [15-213 Intro to Computer Systems - CMU](https://www.cs.cmu.edu/~213/schedule.html) & [Video Lectures](http://scs.hosted.panopto.com/Panopto/Podcast/Podcast.ashx?courseid=b96d90ae-9871-4fae-91e2-b1627b43e25e&type=mp4)
-ML (optional) | [Unix System Programming with Standard ML](http://mlton.org/References.attachments/Shipman02.pdf)
+SML (optional) | [Unix System Programming with Standard ML](http://mlton.org/References.attachments/Shipman02.pdf)
 
 #### Haskell
 
