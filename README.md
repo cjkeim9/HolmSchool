@@ -85,12 +85,19 @@ Cloud IDE | [AWS Cloud9](https://aws.amazon.com/cloud9/) (~$2 a month)
 Cloud Docker | [Codenvy](https://codenvy.com/)
 Cloud IDE | [Theia](https://www.theia-ide.org/)
 
+#### Cloud Programming
+
+Only need a web browser to code here, and so it's where I'd like to start you off with programming. You can always code in JavaScript in your computer's text editor (Text Edit or NotePad), then open up the file in a web browser to run it. But with the cloud IDEs above, you should be able to program in any language and save your files to a cloud account, so don't feel like you can't go beyond this category if you're using a school or public library computer (just use a Cloud IDE!).
+
 Topic | Book
 ------|------
-Cloud Beginning Programming | [Snap!](https://snap.berkeley.edu/) & [mooc part 1](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0) & [mooc part 2](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0) & [tutorial](https://bjc.edc.org/bjc-r/course/bjc4nyc.html) & [playlist](https://www.youtube.com/playlist?list=PLA4F0F0CA4A3EE7F4) & [labs](https://cs10.org) & [lab solutions](https://www.youtube.com/playlist?list=PLAE5AE3CD22628741)
-Cloud Beginning Programming | [Scratch](https://scratch.mit.edu) & [book1](https://inventwithscratch.com/) & [book1 mooc](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH) & [book2](https://stwww1.weizmann.ac.il/scratch/scratch_en/) & [mooc2](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
-Cloud Beginning Programming | [Culturally Situated Design Tools](https://csdt.rpi.edu)
-Cloud Beginning Programming | [Beetle Blocks](http://beetleblocks.com/)
+p5.js Web Editor | [Code! Programming for Beginners with p5.js - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=14&sort=dd)
+JavaScript | [Khan Academy JS Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/programming) & [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) &  [hour of code](https://www.khanacademy.org/hourofcode) & [programming tutorials](https://www.khanacademy.org/computing/computer-programming) & [CS topics](https://www.khanacademy.org/computing/computer-science) & [Nature of Code in JS](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
+Cloud Programming | [Snap!](https://snap.berkeley.edu/) & [mooc part 1](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0) & [mooc part 2](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0) & [tutorial](https://bjc.edc.org/bjc-r/course/bjc4nyc.html) & [playlist](https://www.youtube.com/playlist?list=PLA4F0F0CA4A3EE7F4) & [labs](https://cs10.org) & [lab solutions](https://www.youtube.com/playlist?list=PLAE5AE3CD22628741)
+Cloud Programming | [Scratch](https://scratch.mit.edu) & [Book 1](https://inventwithscratch.com/) & [Book 1 mooc](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH) & [Book 2](https://stwww1.weizmann.ac.il/scratch/scratch_en/) & [Mooc 2](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
+Cloud Programming | [Culturally Situated Design Tools](https://csdt.rpi.edu)
+Cloud Programming | [Beetle Blocks](http://beetleblocks.com) & [Primer](http://beetleblocks.com/static/bb-primer.pdf) & [Getting started](http://forum.beetleblocks.com/uploads/default/original/1X/147bde1e749e07feba1eaebd789c3b02ded0c660.pdf)
+
 
 #### Open Educational Resources
 
@@ -119,7 +126,6 @@ Processing | [Introduction to Processing - Raspberry Pi Foundation](https://proj
 Processing | [Hour of Code and other tutorials - Happy Coding](https://happycoding.io/tutorials/processing/)
 Processing | [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction - shiffman](https://www.youtube.com/user/shiffman/playlists?shelf_id=2&view=50&sort=dd)
 Processing | [The Nature of Code - Daniel Shiffman](https://natureofcode.com/book/) & [playlist](https://www.youtube.com/user/shiffman/playlists?shelf_id=6&view=50&sort=dd)
-JavaScript | [Khan Academy JS Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/programming) & [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) &  [hour of code](https://www.khanacademy.org/hourofcode) & [programming tutorials](https://www.khanacademy.org/computing/computer-programming) & [CS topics](https://www.khanacademy.org/computing/computer-science) & [Nature of Code in JS](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 p5.js | [p5.js tutorials - JavaScript, HTML, and CSS - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=14&sort=dd)
 p5.js | [Programming with Text - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=20)
 p5.js | [Coding Challenges (p5.js) - shiffman](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
