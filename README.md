@@ -383,7 +383,6 @@ Node | [What You Need To Know About Node.js - Bruno Joseph Dmello](https://www.p
 Node | [Mixu's Node book](http://book.mixu.net/node/)
 Node | [Node.js Succinctly - Emanuele DelBono](https://www.syncfusion.com/ebooks/nodejs)
 Node | [Node.js Guides](https://nodejs.org/en/docs/guides/)
-MongoDb | [The Little MongoDB Book - Karl Seguin](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 Express | [Express.js & Node.js Course for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=G8uL0lFFoN0)
 Express | [ExpressJS - TutorialsPoint India](https://www.youtube.com/watch?v=r1yeXZ5_i9c&list=PLWPirh4EWFpGNfj9K0dwb0nJAOXwD9BMg)
 Express | [Express Tutorial: The Local Library website - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
@@ -391,8 +390,9 @@ Express | [Express.js Tutorial: Build RESTful APIs with Node and Express | Mosh]
 Express | [ExpressJS Tutorial - TutorialsPoint](https://www.tutorialspoint.com/expressjs/)
 Express | [Learn Express - Codecademy](https://www.codecademy.com/learn/learn-express)
 Express | [ExpressJS Docs](https://expressjs.com/en/starter/installing.html)
-MEAN | [Software Development Capstone Project - The University of British Columbia](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
-MEAN | [Server-side Development with NodeJS, Express and MongoDB - The Hong Kong University of Science and Technology](https://www.coursera.org/learn/server-side-nodejs)
+MERN Stack | [The Little MongoDB Book - Karl Seguin](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
+MERN Stack | [Software Development Capstone Project - The University of British Columbia](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
+MERN Stack | [Server-side Development with NodeJS, Express and MongoDB - The Hong Kong University of Science and Technology](https://www.coursera.org/learn/server-side-nodejs)
 React | [Intro to React](https://survivejs.com/react/introduction/)
 React | [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 React | [The Road to learn React - Robin Wieruch](https://leanpub.com/the-road-to-learn-react)
@@ -401,6 +401,7 @@ Redux | [REACT JS TUTORIAL - learncode.academy](https://www.youtube.com/watch?v=
 Redux | [The Soundcloud Client in React Redux - Robin Wieruch](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 Redux | [The Complete Redux Book - Ilya Gelman, Boris Dinkevich](https://leanpub.com/redux-book)
 Serverless | [Gatsby Docs](https://www.gatsbyjs.org/docs/)
+GraphQL | [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
 
 #### College Mathematics
 
