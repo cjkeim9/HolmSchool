@@ -106,7 +106,7 @@ OER (optional) | [Open: The Philosophy and Practices that are Revolutionizing Ed
 
 #### Beginning Programming
 
-Get your feet wet with some simple programming tutorials
+Get your feet wet with some simple programming tutorials using some powerful musical and graphical software!
 
 Topic | Book
 ------|-------
@@ -120,6 +120,7 @@ Processing | [Hour of Code and other tutorials - Happy Coding](https://happycodi
 Processing | [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction - shiffman](https://www.youtube.com/user/shiffman/playlists?shelf_id=2&view=50&sort=dd)
 Processing | [The Nature of Code - Daniel Shiffman](https://natureofcode.com/book/) & [playlist](https://www.youtube.com/user/shiffman/playlists?shelf_id=6&view=50&sort=dd)
 p5.js | [p5.js tutorials - JavaScript, HTML, and CSS - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=14&sort=dd)
+p5.js | [Programming with Text - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=20)
 p5.js | [Coding Challenges (p5.js) - shiffman](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 
 
