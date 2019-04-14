@@ -310,14 +310,14 @@ OS | [Building an Operating System for the Raspberry Pi](https://jsandler18.gith
 
 Topic | Book
 ------|------
-ML | [Programming Languages: Standard ML - 1 -> 8 - RU Computer Science](https://www.youtube.com/user/rucomputerscience/search?query=standard+ML)
-ML | [Programming in Standard ML '97: An On-line Tutorial - Stephen Gilmore](http://homepages.inf.ed.ac.uk/stg/NOTES/)
-ML | [Introduction to Standard ML - Atsushi Ohori](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf)
-ML | [Programming in Standard ML - Robert Harper](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
-ML | [Effective ML](https://www.youtube.com/watch?v=-J8YyfrSwTk)
-ML | [The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/)
-ML | [PL Homework](https://courses.cs.washington.edu/courses/cse341/16sp/#homeworks)
-Languages | [Practical Foundations for Programming Languages - Robert Harper](https://thelackthereof.org/docs/library/book.pdf) & [course notes](https://www.cs.cmu.edu/~rwh/courses/ppl/)
+SML | [Programming Languages: Standard ML - 1 -> 8 - RU Computer Science](https://www.youtube.com/user/rucomputerscience/search?query=standard+ML)
+SML | [Programming in Standard ML '97: An On-line Tutorial - Stephen Gilmore](http://homepages.inf.ed.ac.uk/stg/NOTES/)
+SML | [Introduction to Standard ML - Atsushi Ohori](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf)
+SML | [Programming in Standard ML - Robert Harper](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
+SML | [Effective ML](https://www.youtube.com/watch?v=-J8YyfrSwTk)
+SML | [The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/)
+SML | [PL Homework](https://courses.cs.washington.edu/courses/cse341/16sp/#homeworks)
+Programming Languages | [Practical Foundations for Programming Languages - Robert Harper](https://thelackthereof.org/docs/library/book.pdf) & [course notes](https://www.cs.cmu.edu/~rwh/courses/ppl/)
 
 #### Compilers 
 
