@@ -78,7 +78,7 @@ Visual Programming | [Snap!](https://snap.berkeley.edu/) & [mooc part 1](https:/
 Visual Programming | [Scratch](https://scratch.mit.edu) & [Book 1](https://inventwithscratch.com/) & [Book 1 mooc](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH) & [Book 2](https://stwww1.weizmann.ac.il/scratch/scratch_en/) & [Mooc 2](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
 Visual Programming | [Culturally Situated Design Tools](https://csdt.rpi.edu)
 Visual Programming | [Beetle Blocks](http://beetleblocks.com) & [Primer](http://beetleblocks.com/static/bb-primer.pdf) & [Getting started](http://forum.beetleblocks.com/uploads/default/original/1X/147bde1e749e07feba1eaebd789c3b02ded0c660.pdf)
-Browser-based Learning | [freeCodeCamp](http://www.freecodecamp.com/)
+HTML/CSS/JS | [freeCodeCamp](http://www.freecodecamp.com/)
 
 
 #### Open Educational Resources
