@@ -466,7 +466,7 @@ Systems | [The Hardware/Software Interface Class - Luis Ceze and Gaetano Borriel
 Systems | [15-213 Intro to Computer Systems - CMU](https://www.cs.cmu.edu/~213/schedule.html) & [Video Lectures](http://scs.hosted.panopto.com/Panopto/Podcast/Podcast.ashx?courseid=b96d90ae-9871-4fae-91e2-b1627b43e25e&type=mp4)
 SML (optional) | [Unix System Programming with Standard ML](http://mlton.org/References.attachments/Shipman02.pdf)
 
-#### Haskell
+#### Haskell/OCaml (optional)
 
 Topic | Book
 ------|-------
