@@ -132,23 +132,29 @@ CS | [Crash Course - Computer Science](https://www.youtube.com/watch?v=tpIctyqH2
 Programming | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 C | [Beej's Guide to C Programming](http://beej.us/guide/bgc/html/single/bgc.html)
 C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
-C | [Jens Gustedt - Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
-C | [C Programming: Modular Programming and Memory Management - Dartmouth](https://www.edx.org/course/modular-programming-and-memory-management)
-C | [C Programming Exercises, Practice, Solution](https://www.w3resource.com/c-programming-exercises/)
 Python | [Python for Everybody - Charles R. Severance](https://py4e.com/book.php) & [mooc](https://www.coursera.org/specializations/python)
 Python | [Automate the Boring Stuff - Al Sweigart](http://automatetheboringstuff.com/chapter0/)
 Python | [Allen B. Downey - How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 Python | [Python For You and Me - Kushal Das](http://pymbook.readthedocs.io/en/py3/)
-Python | [John DeNero - Composing Programs](http://composingprograms.com/) & [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
-Python | [15-112 Fundamentals of Programming and Computer Science](https://www.cs.cmu.edu/~112/schedule.html)
-Python | [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) & [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 JavaScript | [Khan Academy JS Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/programming) & [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 JavaScript | [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.net/)
+
+#### Deeper dive into C, Python, and JS
+
+Book | Topic
+-----|-------
+C | [Jens Gustedt - Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
+C | [C Programming: Modular Programming and Memory Management - Dartmouth](https://www.edx.org/course/modular-programming-and-memory-management)
+C | [C Programming Exercises, Practice, Solution](https://www.w3resource.com/c-programming-exercises/)
+Python | [John DeNero - Composing Programs](http://composingprograms.com/) & [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
+Python | [15-112 Fundamentals of Programming and Computer Science](https://www.cs.cmu.edu/~112/schedule.html)
+Python | [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) & [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 JavaScript | [Cody Lindley - JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
 JavaScript | [The Complete Guide to Modern JavaScript - Alberto Montalesi](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript-from-es2015-to-es2018)
 JavaScript | [Nicholas C. Zakas - Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
 CS | [Learn Programming - Antti Salonen](https://progbook.org/)
+
 
 #### Data Structures in C, Python, and JavaScript
 
