@@ -119,6 +119,7 @@ Processing | [Introduction to Processing - Raspberry Pi Foundation](https://proj
 Processing | [Hour of Code and other tutorials - Happy Coding](https://happycoding.io/tutorials/processing/)
 Processing | [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction - shiffman](https://www.youtube.com/user/shiffman/playlists?shelf_id=2&view=50&sort=dd)
 Processing | [The Nature of Code - Daniel Shiffman](https://natureofcode.com/book/) & [playlist](https://www.youtube.com/user/shiffman/playlists?shelf_id=6&view=50&sort=dd)
+JavaScript | [Khan Academy JS Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/programming) & [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) &  [hour of code](https://www.khanacademy.org/hourofcode) & [programming tutorials](https://www.khanacademy.org/computing/computer-programming) & [CS topics](https://www.khanacademy.org/computing/computer-science) & [Nature of Code in JS](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 p5.js | [p5.js tutorials - JavaScript, HTML, and CSS - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=14&sort=dd)
 p5.js | [Programming with Text - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=20)
 p5.js | [Coding Challenges (p5.js) - shiffman](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
@@ -136,7 +137,6 @@ Python | [Python for Everybody - Charles R. Severance](https://py4e.com/book.php
 Python | [Automate the Boring Stuff - Al Sweigart](http://automatetheboringstuff.com/chapter0/)
 Python | [Allen B. Downey - How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 Python | [Python For You and Me - Kushal Das](http://pymbook.readthedocs.io/en/py3/)
-JavaScript | [Khan Academy JS Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/programming) & [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 JavaScript | [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.net/)
 
