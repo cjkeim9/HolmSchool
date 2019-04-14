@@ -122,6 +122,7 @@ Python | [Allen B. Downey - How to Think Like a Computer Scientist](http://inter
 Python | [Python For You and Me - Kushal Das](http://pymbook.readthedocs.io/en/py3/)
 Python | [John DeNero - Composing Programs](http://composingprograms.com/) & [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
 Python | [15-112 Fundamentals of Programming and Computer Science](https://www.cs.cmu.edu/~112/schedule.html)
+Python | [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) & [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 JavaScript | [Khan Academy JS Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/programming) & [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 JavaScript | [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -131,7 +132,6 @@ JavaScript | [Nicholas C. Zakas - Understanding ECMAScript 6](https://github.com
 CS | [Learn Programming - Antti Salonen](https://progbook.org/)
 
 #### Data Structures in C, Python, and JavaScript
-After studying data structures and algorithms in Java, learning them in additional languages should come quickly. We throw in some complexity books (Foundations..., Think...) to further expand our CS horizons:
 
 Topic | Book 
 ------|--------
