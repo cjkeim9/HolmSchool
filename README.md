@@ -431,11 +431,11 @@ Topic | Book
 -----|-------
 ML | [Neural Networks and Machine Learning - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=16)
 ML | [Neural Networks - 3brown1blue](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+ML | [Hal Daumé III - A Course in Machine Learning](http://ciml.info/)
 ML | [A First Encounter with Machine Learning - Max Welling](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)
 ML | [Building Machine Learning Systems with Python - Willi Richert, Luis Pedro Coelho](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms)
 ML | [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
-ML | [Tensorflow - Learn](https://www.tensorflow.org/learn)
-ML | [PyTorch - Tutorials](https://pytorch.org/tutorials/)
+ML | [Tensorflow 2.0 - Learn](https://www.tensorflow.org/learn)
 ML (optional) | [Math Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)
 ML (optional) | [A Brief Introduction to Machine Learning for Engineers - Osvaldo Simeone](https://arxiv.org/pdf/1709.02840.pdf)
 ML (optional) | [More videos for those interested](https://github.com/Developer-Y/cs-video-courses#machine-learning)
@@ -514,6 +514,30 @@ Go | [Go Programming - John P. Baugh](https://archive.org/details/GoProgramming)
 Go | [Go by Example - Mark McGranaghan](https://gobyexample.com/)
 Go | [Building Web Apps with Go - Jeremy Saenz](https://codegangsta.gitbooks.io/building-web-apps-with-go/)
 Go | [Web apps in Go, the anti textbook - Suraj Patil](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+
+#### Computer Vision
+
+Topic | Book
+------|--------
+CV | [Jan Erik Solem - Programming Computer Vision with Python](http://programmingcomputervision.com/)
+CV | [Simon J.D. Prince - Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
+CV | [Image Processing and Computer Vision OpenCourseWare](https://github.com/Developer-Y/cs-video-courses#image-processing-and-computer-vision)
+
+
+#### Natural Language Processing
+
+Topic | Book
+------|-------
+NumPy | [Numpy beginner tutorial](https://github.com/rougier/numpy-tutorial)
+NumPy | [An introduction to Numpy and Scipy](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf)
+NumPy | [Numpy Tutorial](https://www.python-course.eu/numpy.php)
+NumPy | [100 numpy exercises](https://github.com/rougier/numpy-100)
+NumPy | [SciPy Lectures](http://scipy-lectures.org/)
+PyTorch | [PyTorch - Tutorials](https://pytorch.org/tutorials/)
+NLP | [Reference Texts for CS224n ](http://web.stanford.edu/class/cs224n/)
+NLP | [CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) & [class notes](http://web.stanford.edu/class/cs224n/)
+NLP | [ML based Natural Language Processing and Computer Vision OpenCourseWare](https://github.com/Developer-Y/cs-video-courses#machine-learning)
+
 
 #### Supplement your studies
 
