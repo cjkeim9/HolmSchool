@@ -37,27 +37,6 @@ Topic    | Book
 CS and poverty | [Holm School - How to Be a Not-Rich Computer Scientist](https://holm.school/about/)
 Java | [Daniel Liang - Introduction to Java Programming, Comprehensive Version (9th Edition, $15)](https://www.amazon.com/gp/offer-listing/0132936526/ref=dp_olp_used?ie=UTF8&condition=used)
 
-#### Set Up Your Raspberry Pi
-
-Now let's set your Raspberry Pi up for development. Install Java 8 for Liang, and Visual Studio Code for an IDE. Install chromium for a browser, and python 3 and node while we're at it.
-
-Topic    | Book
----------|----------
-Raspberry Pi/Debian | [Install Java on a Raspberry Pi](https://gist.github.com/ribasco/fff7d30b31807eb02b32bcf35164f11f)
-Raspberry Pi/Debian | Install Python: ```sudo apt-get install python3-pip```
-Raspberry Pi/Debian | Install Chromium: ```sudo apt-get install chromium```
-Raspberry Pi/Debian | Install VS Code: ```sudo apt update``` ```sudo apt-get install snapd``` ```sudo reboot``` (save first) ```sudo snap install code --classic``` 
-Raspberry Pi/Debian | Install Node: ```sudo snap install node --classic --channel=11```
-Raspberry Pi/Debian | [Linux Basics: The Command Line Interface (edX)](https://www.edx.org/course/linux-basics-the-command-line-interface)
-Raspberry Pi/Debian | [Introduction to Linux (edX)](https://www.edx.org/course/introduction-to-linux)
-Raspberry Pi/Debian | [Introduction to the Command Line](https://launchschool.com/books/command_line)
-Raspberry Pi/Debian | [Malcolm Maclean - Just Enough Linux](https://leanpub.com/jelinux/read)
-Raspberry Pi/Debian | [Mark Bates - Conquering the Command Line](http://conqueringthecommandline.com/book)
-Raspberry Pi/Debian | [Unix and Linux Visual Quickstart Guide - Deborah Ray, Eric Ray (Sample Excerpt)](http://ptgmedia.pearsoncmg.com/images/9780321997548/samplepages/9780321997548.pdf)
-Raspberry Pi/Debian | [CS 2043 Unix Tools & Scripting](http://www.cs.cornell.edu/courses/cs2043/2019sp/schedule.html)
-Raspberry Pi/Debian | [15-131 – Great Practical Ideas in CS](https://www.cs.cmu.edu/~15131/f17/)
-Raspberry Pi/Debian (optional) | [William Shotts - The Linux Command Line](http://linuxcommand.org/tlcl.php)
-
 #### Cloud Programming
 
 If you are a student that can't afford a Raspberry Pi and has to rely on school computers or public library computers, you know that you aren't able to install any software onto them. What you need is a venue to study programming that exists in the web browser, so that you can boot up chrome and program entirely within it, and be able to run your software in the browser and save your program's source code to a site's database for retrieval. Fortunately, this is possible, and many avenues for pursuing this line of learning how to program are also geared towards beginners. So you can see whether you are interested in learning how to program before making the investment of purchasing a Raspberry Pi. Here are some resources for cloud programming languages and cloud IDEs (integrated development environments, basically text editors that can run your program). Cloud IDEs are constantly being created as well as going out of business, so googling around might fetch some updated results.
@@ -113,6 +92,27 @@ OER | [Holm School - Important Knowledge is in Books](https://holm.school/import
 OER | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 OER | [OpenStax.org](http://openstax.org)
 OER (optional) | [Open: The Philosophy and Practices that are Revolutionizing Education and Science](https://www.ubiquitypress.com/site/books/10.5334/bbc/)
+
+#### Set Up Your Raspberry Pi
+
+Now let's set your Raspberry Pi up for development. Install Java 8 for Liang, and Visual Studio Code for an IDE. Install chromium for a browser, and python 3 and node while we're at it.
+
+Topic    | Book
+---------|----------
+Raspberry Pi/Debian | [Install Java on a Raspberry Pi](https://gist.github.com/ribasco/fff7d30b31807eb02b32bcf35164f11f)
+Raspberry Pi/Debian | Install Python: ```sudo apt-get install python3-pip```
+Raspberry Pi/Debian | Install Chromium: ```sudo apt-get install chromium```
+Raspberry Pi/Debian | Install VS Code: ```sudo apt update``` ```sudo apt-get install snapd``` ```sudo reboot``` (save first) ```sudo snap install code --classic``` 
+Raspberry Pi/Debian | Install Node: ```sudo snap install node --classic --channel=11```
+Raspberry Pi/Debian | [Linux Basics: The Command Line Interface (edX)](https://www.edx.org/course/linux-basics-the-command-line-interface)
+Raspberry Pi/Debian | [Introduction to Linux (edX)](https://www.edx.org/course/introduction-to-linux)
+Raspberry Pi/Debian | [Introduction to the Command Line](https://launchschool.com/books/command_line)
+Raspberry Pi/Debian | [Malcolm Maclean - Just Enough Linux](https://leanpub.com/jelinux/read)
+Raspberry Pi/Debian | [Mark Bates - Conquering the Command Line](http://conqueringthecommandline.com/book)
+Raspberry Pi/Debian | [Unix and Linux Visual Quickstart Guide - Deborah Ray, Eric Ray (Sample Excerpt)](http://ptgmedia.pearsoncmg.com/images/9780321997548/samplepages/9780321997548.pdf)
+Raspberry Pi/Debian (optional) | [CS 2043 Unix Tools & Scripting](http://www.cs.cornell.edu/courses/cs2043/2019sp/schedule.html)
+Raspberry Pi/Debian (optional) | [15-131 – Great Practical Ideas in CS](https://www.cs.cmu.edu/~15131/f17/)
+Raspberry Pi/Debian (optional) | [William Shotts - The Linux Command Line](http://linuxcommand.org/tlcl.php)
 
 #### Beginning Programming
 
