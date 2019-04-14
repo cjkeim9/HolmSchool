@@ -89,8 +89,8 @@ Topic | Book
 ------|------
 Cloud Beginning Programming | [Snap!](https://snap.berkeley.edu/) & [mooc part 1](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0) & [mooc part 2](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0) & [tutorial](https://bjc.edc.org/bjc-r/course/bjc4nyc.html) & [playlist](https://www.youtube.com/playlist?list=PLA4F0F0CA4A3EE7F4) & [labs](https://cs10.org) & [lab solutions](https://www.youtube.com/playlist?list=PLAE5AE3CD22628741)
 Cloud Beginning Programming | [Scratch](https://scratch.mit.edu) & [book1](https://inventwithscratch.com/) & [book1 mooc](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH) & [book2](https://stwww1.weizmann.ac.il/scratch/scratch_en/) & [mooc2](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
-Cloud Beginning Programming | [Beetle Blocks](http://beetleblocks.com/)
 Cloud Beginning Programming | [Culturally Situated Design Tools](https://csdt.rpi.edu)
+Cloud Beginning Programming | [Beetle Blocks](http://beetleblocks.com/)
 
 #### Open Educational Resources
 
