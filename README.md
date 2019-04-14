@@ -348,7 +348,6 @@ AI | [Artificial Intelligence - Ravensburg-Weingarten University](https://www.yo
 AI | [CS405: Artificial Intelligence - Saylor](https://learn.saylor.org/course/view.php?id=96)
 AI | [CS408: Advanced Artificial Intelligence - Saylor](https://learn.saylor.org/course/view.php?id=81)
 AI | [Artificial Intelligence: Foundations of Computational Agents,  2nd Edition](https://artint.info/2e/html/ArtInt2e.html)
-AI (optional) | [Peter Norvig - Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
 
 
 #### Software Engineering
@@ -417,7 +416,7 @@ Statistics | [Introductory Statistics - OpenStax](https://openstax.org/details/b
 Statistics | [Probability and Statistics](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
 Pure Math | [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/)
 Pure Math | [Donald Knuth - Concrete Mathematics](https://archive.org/details/B-001-002-135/)
-CS Math | [15-251 Great Theoretical Ideas in Computer Science](http://www.cs.cmu.edu/~arielpro/15251f15/schedule.html) & [YouTube Playlist](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) & [Notes[(http://www.cs.cmu.edu/~15251/notes.html) & 
+CS Math | [15-251 Great Theoretical Ideas in Computer Science](http://www.cs.cmu.edu/~arielpro/15251f15/schedule.html) & [YouTube Playlist](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) & [Notes](http://www.cs.cmu.edu/~15251/notes.html) & 
 CS Math | [Mathematics for Computer Science - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) & [textbook](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 CS Math | [Probability and Computing Lecture Notes](http://www.cs.cmu.edu/~odonnell/papers/probability-and-computing-lecture-notes.pdf)
 
