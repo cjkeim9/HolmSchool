@@ -517,6 +517,13 @@ Go | [Go by Example - Mark McGranaghan](https://gobyexample.com/)
 Go | [Building Web Apps with Go - Jeremy Saenz](https://codegangsta.gitbooks.io/building-web-apps-with-go/)
 Go | [Web apps in Go, the anti textbook - Suraj Patil](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
+#### Robotics (optional)
+
+Topic | Book
+------|------
+Robotics | [Modern Robotics: Mechanics, Planning, and Control Specialization - Northwestern](https://www.coursera.org/specializations/modernrobotics)
+Robotics | [Modern Robotics](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
+
 #### Computer Vision
 
 Topic | Book
