@@ -104,6 +104,24 @@ OER | [EbookFoundation/free-programming-books](https://github.com/EbookFoundatio
 OER | [OpenStax.org](http://openstax.org)
 OER (optional) | [Open: The Philosophy and Practices that are Revolutionizing Education and Science](https://www.ubiquitypress.com/site/books/10.5334/bbc/)
 
+#### Beginning Programming
+
+Get your feet wet with some simple programming tutorials
+
+Topic | Book
+------|-------
+Sonic Pi | [Introduction to Sonic Pi - Dave Conservatoire](https://www.youtube.com/watch?v=4BPKaHV7Q5U&list=PLaitaNxyd8SHvTQjRGnMdKLsARXW7iYyp)
+Sonic Pi | [Davids Fiddle](https://www.youtube.com/watch?v=oRB561XNSIM&list=PLxJoOXhg8m5LbBzczDCeZ4wzky1K578SS)
+Sonic Pi | [Getting Started With Sonic Pi - Raspberry Pi Foundation](https://projects.raspberrypi.org/en/projects/getting-started-with-sonic-pi/)
+Sonic Pi | [Creative programming workshop with Sonic Pi - mehackit](http://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html)
+Sonic Pi | [Sonic Pi Tutorial](https://sonic-pi.net/tutorial.html)
+Processing | [Introduction to Processing - Raspberry Pi Foundation](https://projects.raspberrypi.org/en/projects/introduction-to-processing)
+Processing | [Hour of Code and other tutorials - Happy Coding](https://happycoding.io/tutorials/processing/)
+Processing | [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction - shiffman](https://www.youtube.com/user/shiffman/playlists?shelf_id=2&view=50&sort=dd)
+Processing | [The Nature of Code - Daniel Shiffman](https://natureofcode.com/book/) & [playlist](https://www.youtube.com/user/shiffman/playlists?shelf_id=6&view=50&sort=dd)
+p5.js | [p5.js tutorials - JavaScript, HTML, and CSS - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=14&sort=dd)
+p5.js | [Coding Challenges (p5.js) - shiffman](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
+
 
 #### CS50 as an introduction to C, Python, and Javascript
 
@@ -402,6 +420,8 @@ CS Math | [Probability and Computing Lecture Notes](http://www.cs.cmu.edu/~odonn
 
 Topic | Book
 -----|-------
+ML | [Neural Networks and Machine Learning - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=16)
+ML | [Neural Networks - 3brown1blue](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 ML | [A First Encounter with Machine Learning - Max Welling](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)
 ML | [Building Machine Learning Systems with Python - Willi Richert, Luis Pedro Coelho](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms)
 ML | [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
