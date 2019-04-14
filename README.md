@@ -200,6 +200,7 @@ Digital Electronics | [Introduction to Digital Electronics - Neso Academy](https
 Architecture | [Computer Science 61C - Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 Architecture | [Computer Architecture - Carnegie Mellon](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) & [slides](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule)
 Architecture | [Computation Structures 2: Computer Architecture - MIT](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)
+Architecture | [Computer Architecture - Princeton](https://www.coursera.org/learn/comparch)
 Architecture | [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi - Robert G. Plantz](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 Architecture | [NAND2Tetris](https://www.nand2tetris.org/) & [coursera 1](https://www.nand2tetris.org/) & [coursera 2](https://www.coursera.org/learn/nand2tetris2) & [textbook](https://archive.org/details/TheElementsOfComputingSystems_201408)
 Architecture (optional) | [Donald Knuth - Introduction to MMIX](http://mmix.cs.hm.edu/doc/mmix-doc.pdf)
@@ -486,7 +487,6 @@ Go | [Web apps in Go, the anti textbook - Suraj Patil](https://github.com/thewhi
 
 #### Supplement your studies
 
-Now that the show is over, and we have jointly exercised our constitutional rights, we would like to leave you with one very important thought: Some time in the future, you may have the opportunity to serve as a juror in a censorship case or a so-called obscenity case. It would be wise to remember that the same people who would stop you from listening to Holm School may be back next year to complain about a book, or even a TV program. If you can be told what you can see or read, then it follows that you can be told what to say or think. Defend your constitutionally protected rights - no one else will do it for you. Thank you.
 
 Site |
 -------|
