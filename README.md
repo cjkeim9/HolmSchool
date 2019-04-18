@@ -2,7 +2,7 @@
 
 <h2 align="center">Keep Free Computer Science Education Weird</h2>
 
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+<p align="center">[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)</p>
 
 #### https://Holm.School
 
