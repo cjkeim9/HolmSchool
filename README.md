@@ -150,6 +150,7 @@ Python | [Allen B. Downey - How to Think Like a Computer Scientist](http://inter
 Python | [Python For You and Me - Kushal Das](http://pymbook.readthedocs.io/en/py3/)
 JavaScript | [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 JavaScript | [Marijn Haverbeke - Eloquent JavaScript](http://eloquentjavascript.net/)
+JavaScript | [Axel Rauschmayer - JavaScript for impatient programmers](http://exploringjs.com/impatient-js/index.html)
 
 #### Further investigation of C, Python, and JS
 
@@ -164,6 +165,7 @@ Python | [Introduction to Computer Science and Programming in Python](https://oc
 JavaScript | [Cody Lindley - JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
 JavaScript | [The Complete Guide to Modern JavaScript - Alberto Montalesi](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript-from-es2015-to-es2018)
 JavaScript | [Nicholas C. Zakas - Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
+JavaScript | [Axel Rauschmayer - Exploring ES6](http://exploringjs.com/es6.html)
 CS | [Learn Programming - Antti Salonen](https://progbook.org/)
 
 
