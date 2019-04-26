@@ -77,7 +77,7 @@ Topic | Book
 p5.js | [Code! Programming for Beginners with p5.js - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=14&sort=dd)
 JavaScript | [Khan Academy JS Tutorials - Part 1](https://www.khanacademy.org/computing/computer-programming/programming) & [Part 2](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) &  [hour of code](https://www.khanacademy.org/hourofcode) & [programming tutorials](https://www.khanacademy.org/computing/computer-programming) & [CS topics](https://www.khanacademy.org/computing/computer-science) & [Nature of Code in JS](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 Visual Programming | [Snap!](https://snap.berkeley.edu/) & [mooc part 1](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0) & [mooc part 2](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0) & [tutorial](https://bjc.edc.org/bjc-r/course/bjc4nyc.html) & [playlist](https://www.youtube.com/playlist?list=PLA4F0F0CA4A3EE7F4) & [labs](https://cs10.org) & [lab solutions](https://www.youtube.com/playlist?list=PLAE5AE3CD22628741)
-Visual Programming | [Scratch](https://scratch.mit.edu) & [Book 1](https://inventwithscratch.com/) & [Book 1 mooc](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH) & [Book 2](https://stwww1.weizmann.ac.il/scratch/scratch_en/) & [Mooc 2](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
+Visual Programming | [Scratch](https://scratch.mit.edu) & [Book 1](https://inventwithscratch.com/) & [Book 1 mooc](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH) & [Book 2](https://stwww1.weizmann.ac.il/scratch/scratch_en/) & [Mooc 2](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1) & [Book 3](https://www.raspberrypi.org/magpi-issues/CC_Book_of_Scratch_v1.pdf) & [Book 4](https://www.raspberrypi.org/magpi-issues/Essentials_Scratch_v1.pdf)
 Visual Programming | [Culturally Situated Design Tools](https://csdt.rpi.edu)
 Visual Programming | [Beetle Blocks](http://beetleblocks.com) & [Primer](http://beetleblocks.com/static/bb-primer.pdf) & [Getting started](http://forum.beetleblocks.com/uploads/default/original/1X/147bde1e749e07feba1eaebd789c3b02ded0c660.pdf)
 HTML/CSS/JS | [freeCodeCamp](http://www.freecodecamp.com/)
@@ -106,6 +106,9 @@ Raspberry Pi/Debian | Install Python: ```sudo apt-get install python3-pip```
 Raspberry Pi/Debian | Install Chromium: ```sudo apt-get install chromium```
 Raspberry Pi/Debian | Install VS Code: ```sudo apt update``` ```sudo apt-get install snapd``` ```sudo reboot``` (save first) ```sudo snap install code --classic``` 
 Raspberry Pi/Debian | Install Node: ```sudo snap install node --classic --channel=11```
+Raspberry Pi | [Gareth Halfacree - The Official Raspberry Pi Beginner's Guide](https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v1.pdf)
+Raspberry Pi | [The Official Raspberry Pi Beginner's Book](https://www.raspberrypi.org/magpi-issues/Beginners_Book_v1.pdf)
+Raspberry Pi/Debian | [Richard Smedley - Conquer the Command Line - The Raspberry Pi Terminal Guide](https://www.raspberrypi.org/magpi-issues/Essentials_Bash_v2.pdf)
 Raspberry Pi/Debian | [Linux Basics: The Command Line Interface (edX)](https://www.edx.org/course/linux-basics-the-command-line-interface)
 Raspberry Pi/Debian | [Introduction to Linux (edX)](https://www.edx.org/course/introduction-to-linux)
 Raspberry Pi/Debian | [Introduction to the Command Line](https://launchschool.com/books/command_line)
@@ -122,6 +125,7 @@ Get your feet wet with some simple programming tutorials using some powerful mus
 
 Topic | Book
 ------|-------
+Sonic Pi | [Sam Aaron - Code Music with Sonic Pi](https://www.raspberrypi.org/magpi-issues/Essentials_Sonic_Pi-v1.pdf)
 Sonic Pi | [Introduction to Sonic Pi - Dave Conservatoire](https://www.youtube.com/watch?v=4BPKaHV7Q5U&list=PLaitaNxyd8SHvTQjRGnMdKLsARXW7iYyp)
 Sonic Pi | [Davids Fiddle](https://www.youtube.com/watch?v=oRB561XNSIM&list=PLxJoOXhg8m5LbBzczDCeZ4wzky1K578SS)
 Sonic Pi | [Getting Started With Sonic Pi - Raspberry Pi Foundation](https://projects.raspberrypi.org/en/projects/getting-started-with-sonic-pi/)
@@ -142,6 +146,7 @@ Topic | Book
 ------|--------
 CS | [Crash Course - Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q)
 Programming | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+C | [Simon Long - Learn to Code with C](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf)
 C | [Simon Long - An Introduction to C & GUI Programming](https://www.raspberrypi.org/magpi-issues/C_GUI_Programming.pdf)
 C | [Beej's Guide to C Programming](http://beej.us/guide/bgc/html/single/bgc.html)
 C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
