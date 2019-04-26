@@ -142,6 +142,7 @@ Topic | Book
 ------|--------
 CS | [Crash Course - Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q)
 Programming | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+C | [Simon Long - An Introduction to C & GUI Programming](https://www.raspberrypi.org/magpi-issues/C_GUI_Programming.pdf)
 C | [Beej's Guide to C Programming](http://beej.us/guide/bgc/html/single/bgc.html)
 C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 Python | [Python for Everybody - Charles R. Severance](https://py4e.com/book.php) & [mooc](https://www.coursera.org/specializations/python)
