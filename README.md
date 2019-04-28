@@ -457,7 +457,7 @@ ML | [A First Encounter with Machine Learning - Max Welling](https://www.ics.uci
 ML | [Building Machine Learning Systems with Python - Willi Richert, Luis Pedro Coelho](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms)
 ML | [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
 ML | [Tensorflow 2.0 - Learn](https://www.tensorflow.org/learn)
-ML | [mathematicalmonk - Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+ML (optional) | [mathematicalmonk - Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 ML (optional) | [Math Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)
 ML (optional) | [A Brief Introduction to Machine Learning for Engineers - Osvaldo Simeone](https://arxiv.org/pdf/1709.02840.pdf)
 ML (optional) | [More videos for those interested](https://github.com/Developer-Y/cs-video-courses#machine-learning)
