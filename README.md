@@ -146,6 +146,7 @@ Topic | Book
 ------|--------
 CS | [Crash Course - Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q)
 Programming | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+CS | [Glenn Brookshear & Dennis Brylow - Computer Science - An Overview](https://archive.org/details/ComputerScienceAnOverview_201903)
 C | [Simon Long - Learn to Code with C](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf)
 C | [Simon Long - An Introduction to C & GUI Programming](https://www.raspberrypi.org/magpi-issues/C_GUI_Programming.pdf)
 C | [Beej's Guide to C Programming](http://beej.us/guide/bgc/html/single/bgc.html)
