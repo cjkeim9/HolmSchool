@@ -17,6 +17,7 @@ Holmshoolers are computer scientists that are home schooled, or even better, _un
 Topic | Book
 ------------ | -------------
 Unschooling | [Grace Llewellyn - The Teenage Liberation Handbook - How to quit school and get a real life and education](https://homominimus.files.wordpress.com/2013/11/the-teenage-liberation-handbook-how-to-quit-school-and-get-a-real-life-and-education.pdf)
+DIY Edu | [Anya Kamenetz - The Edupunks' Guide to a DIY Credential](https://www.smashwords.com/books/view/77938)
 
 #### First Books to Read
 
