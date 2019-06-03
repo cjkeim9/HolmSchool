@@ -209,6 +209,7 @@ TypeScript | [TypeScript Essentials](https://medium.com/@wittydeveloper/typescri
 Topic | Book
 ------|-------
 Java | [Daniel Liang - Introduction to Java Programming, Comprehensive Version (9th Edition, $15)](https://www.amazon.com/gp/offer-listing/0132936526/ref=dp_olp_used?ie=UTF8&condition=used) (read entire book and do every problem at end of every chapter, intrepid googlers can probably find a pdf copy of this online)
+Java | [freeCodeCamp - Intro to Java Programming - Course for Absolute Beginners](https://www.youtube.com/watch?v=GoXwIVyNvX0)
 Java | [Yakov Fain - Java Programming for Kids](https://yfain.github.io/Java4Kids/)
 Java | [Bradley Kjell - Introduction to Computer Science using Java](http://www.programmedlessons.org/Java9/index.html)
 Java | [AP Computer Science A: Java Programming - Purdue (edX) - Part 1](https://www.edx.org/course/ap-computer-science-a-java-programming) & [part 2](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0)  & [part 3](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0) & [part 4](https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0)
