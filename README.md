@@ -569,6 +569,12 @@ NLP | [Reference Texts for CS224n ](http://web.stanford.edu/class/cs224n/)
 NLP | [CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) & [class notes](http://web.stanford.edu/class/cs224n/)
 NLP | [ML based Natural Language Processing and Computer Vision OpenCourseWare](https://github.com/Developer-Y/cs-video-courses#machine-learning)
 
+#### Data Science
+
+Topic | Book
+-------|------
+Data | [freeCodeCamp - Free 6-Hour Data Science Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30)
+
 
 #### Supplement your studies
 
