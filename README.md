@@ -150,6 +150,7 @@ Programming | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-to-
 CS | [Glenn Brookshear & Dennis Brylow - Computer Science - An Overview](https://archive.org/details/ComputerScienceAnOverview_201903)
 C | [Simon Long - Learn to Code with C](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf)
 C | [Simon Long - An Introduction to C & GUI Programming](https://www.raspberrypi.org/magpi-issues/C_GUI_Programming.pdf)
+C | [Banahan, Brady, & Doran - The C Book](https://publications.gbdirect.co.uk//c_book/)
 C | [Beej's Guide to C Programming](http://beej.us/guide/bgc/html/single/bgc.html)
 C | [Mark Burgess and Ron Hale-Evans - The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 Python | [Python for Everybody - Charles R. Severance](https://py4e.com/book.php) & [mooc](https://www.coursera.org/specializations/python)
