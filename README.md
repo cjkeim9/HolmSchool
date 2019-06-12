@@ -139,6 +139,7 @@ Processing | [The Nature of Code - Daniel Shiffman](https://natureofcode.com/boo
 p5.js | [p5.js tutorials - JavaScript, HTML, and CSS - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=14&sort=dd)
 p5.js | [Programming with Text - shiffman](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=20)
 p5.js | [Coding Challenges (p5.js) - shiffman](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
+Pyret | [Krishnamurthi, Lerner, and Gibbs Politz - Programming and Programming Languages](https://papl.cs.brown.edu/2018/)
 
 
 #### Harvard's CS50 as an introduction to C, Python, and Javascript
