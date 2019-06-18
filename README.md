@@ -28,6 +28,7 @@ Topic | Book
 Financial Independence | [Mr. Money Mustache - entire site](http://www.mrmoneymustache.com/all-the-posts-since-the-beginning-of-time/) OR [epub rip of entire site](https://github.com/HolmSchool/MMM-Ebook/raw/master/Ebooks/mmm.epub)
 Financial Independence | [J.L. Collins - The Simple Path to Wealth](https://jlcollinsnh.com/stock-series/)
 Personal Finance | [Holm School - Tips for Personal Finance](https://holm.school/tips-for-personal-finance/)
+Index Funds | [Holm School/free-index-funds-books](https://github.com/HolmSchool/free-index-funds-books)
 
 #### Next Set of Books to Read
 
