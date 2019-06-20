@@ -170,7 +170,7 @@ Book | Topic
 C | [Jens Gustedt - Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 C | [C Programming: Modular Programming and Memory Management - Dartmouth](https://www.edx.org/course/modular-programming-and-memory-management)
 C | [C Programming Exercises, Practice, Solution](https://www.w3resource.com/c-programming-exercises/)
-Python | [John DeNero - Composing Programs](http://composingprograms.com/) & [John DeNero - SICP](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
+Python | [John DeNero - Composing Programs](http://composingprograms.com/) & [YouTube](https://www.youtube.com/user/papajohnno/videos) & [Syllabus](https://inst.eecs.berkeley.edu/~cs61a/fa18/)
 Python | [15-112 Fundamentals of Programming and Computer Science](https://www.cs.cmu.edu/~112/schedule.html)
 Python | [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) & [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 JavaScript | [Cody Lindley - JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
